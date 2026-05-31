@@ -46,6 +46,13 @@ html, body, #root {
   font-weight: 600;
   letter-spacing: -0.01em;
 }
+.hdr-tagline {
+  color: var(--fg-muted);
+  font-size: 12px;
+  font-style: italic;
+  margin-bottom: 4px;
+  letter-spacing: 0.02em;
+}
 .hdr-sub { color: var(--fg-muted); font-size: 13px; }
 .badge {
   display: inline-block;

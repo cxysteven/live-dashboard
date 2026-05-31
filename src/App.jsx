@@ -26,7 +26,8 @@ export default function App() {
   return (
     <div className="page">
       <header className="hdr">
-        <h1>Live Performance</h1>
+        <h1>AlphaSeek</h1>
+        <div className="hdr-tagline">Hunting alpha, one tick at a time.</div>
         <div className="hdr-sub">
           {live_start_date} → {as_of} &nbsp;·&nbsp; {stats.days_live} trading days
           {data._sample ? <span className="badge"> sample data</span> : null}
