@@ -5,8 +5,11 @@
   --fg-muted: #8b949e;
   --fg-pos: #3fb950;
   --fg-neg: #f85149;
-  --accent-v3: #58a6ff;
+  --accent-as: #58a6ff;
   --accent-qqq: #d2a8ff;
+  --accent-voo: #f0883e;
+  --accent-csi: #db61a2;
+  --accent-n225: #56d364;
   --accent-neg: #f85149;
   --grid: #21262d;
   --grid-strong: #30363d;
@@ -102,6 +105,26 @@ html, body, #root {
   margin-top: 4px;
   font-variant-numeric: tabular-nums;
 }
+
+.bench-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: -8px 0 20px;
+}
+.bench-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+.bench-label { color: var(--fg-muted); font-weight: 500; }
+.bench-val { font-weight: 600; }
 
 .chart-card {
   background: var(--bg-elev);
