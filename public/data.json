@@ -6,475 +6,633 @@
       "date": "2026-02-10",
       "nav_index": 100.0,
       "qqq_index": 100.0,
-      "drawdown_pct": 0.0
+      "voo_index": 100.0,
+      "csi300_index": 100.0,
+      "n225_index": 100.0
     },
     {
       "date": "2026-02-11",
       "nav_index": 103.3316,
       "qqq_index": 100.2682,
-      "drawdown_pct": 0.0
+      "voo_index": 99.9859,
+      "csi300_index": 99.7782,
+      "n225_index": 100.0
     },
     {
       "date": "2026-02-12",
       "nav_index": 99.6535,
       "qqq_index": 98.2289,
-      "drawdown_pct": -3.5595
+      "voo_index": 98.4366,
+      "csi300_index": 99.9001,
+      "n225_index": 99.9814
     },
     {
       "date": "2026-02-13",
       "nav_index": 100.9954,
       "qqq_index": 98.4382,
-      "drawdown_pct": -2.2609
+      "voo_index": 98.4995,
+      "csi300_index": 98.6476,
+      "n225_index": 98.7709
     },
     {
       "date": "2026-02-16",
       "nav_index": 100.9954,
       "qqq_index": 98.4382,
-      "drawdown_pct": -2.2609
+      "voo_index": 98.4995,
+      "csi300_index": 98.6476,
+      "n225_index": 98.5358
     },
     {
       "date": "2026-02-17",
       "nav_index": 101.3322,
       "qqq_index": 98.3368,
-      "drawdown_pct": -1.9349
+      "voo_index": 98.6723,
+      "csi300_index": 98.6476,
+      "n225_index": 98.1196
     },
     {
       "date": "2026-02-18",
       "nav_index": 103.3066,
       "qqq_index": 99.0711,
-      "drawdown_pct": -0.0242
+      "voo_index": 99.1688,
+      "csi300_index": 98.6476,
+      "n225_index": 99.1211
     },
     {
       "date": "2026-02-19",
       "nav_index": 102.0568,
       "qqq_index": 98.6917,
-      "drawdown_pct": -1.2337
+      "voo_index": 98.9143,
+      "csi300_index": 98.6476,
+      "n225_index": 99.6831
     },
     {
       "date": "2026-02-20",
       "nav_index": 103.713,
       "qqq_index": 99.565,
-      "drawdown_pct": 0.0
+      "voo_index": 99.6198,
+      "csi300_index": 98.6476,
+      "n225_index": 98.5692
     },
     {
       "date": "2026-02-23",
       "nav_index": 103.3915,
       "qqq_index": 98.3548,
-      "drawdown_pct": -0.31
+      "voo_index": 98.6157,
+      "csi300_index": 98.6476,
+      "n225_index": 98.5692
     },
     {
       "date": "2026-02-24",
       "nav_index": 103.2983,
       "qqq_index": 99.4113,
-      "drawdown_pct": -0.3999
+      "voo_index": 99.3354,
+      "csi300_index": 99.6452,
+      "n225_index": 99.4285
     },
     {
       "date": "2026-02-25",
       "nav_index": 105.45,
       "qqq_index": 100.852,
-      "drawdown_pct": 0.0
+      "voo_index": 100.1713,
+      "csi300_index": 100.2453,
+      "n225_index": 101.6176
     },
     {
       "date": "2026-02-26",
       "nav_index": 102.5507,
       "qqq_index": 99.6353,
-      "drawdown_pct": -2.7495
+      "voo_index": 99.6088,
+      "csi300_index": 100.0544,
+      "n225_index": 101.913
     },
     {
       "date": "2026-02-27",
       "nav_index": 101.4142,
       "qqq_index": 99.3164,
-      "drawdown_pct": -3.8272
+      "voo_index": 99.1515,
+      "csi300_index": 99.7111,
+      "n225_index": 102.081
     },
     {
       "date": "2026-03-02",
       "nav_index": 101.4484,
       "qqq_index": 99.4472,
-      "drawdown_pct": -3.7948
+      "voo_index": 99.1892,
+      "csi300_index": 100.0925,
+      "n225_index": 100.7055
     },
     {
       "date": "2026-03-03",
       "nav_index": 99.4296,
       "qqq_index": 98.3826,
-      "drawdown_pct": -5.7092
+      "voo_index": 98.3156,
+      "csi300_index": 98.5522,
+      "n225_index": 97.621
     },
     {
       "date": "2026-03-04",
       "nav_index": 100.605,
       "qqq_index": 99.8823,
-      "drawdown_pct": -4.5946
+      "voo_index": 99.0164,
+      "csi300_index": 97.4246,
+      "n225_index": 94.0937
     },
     {
       "date": "2026-03-05",
       "nav_index": 99.2351,
       "qqq_index": 99.5813,
-      "drawdown_pct": -5.8937
+      "voo_index": 98.4869,
+      "csi300_index": 98.3784,
+      "n225_index": 95.8847
     },
     {
       "date": "2026-03-06",
       "nav_index": 96.4597,
       "qqq_index": 98.0833,
-      "drawdown_pct": -8.5257
+      "voo_index": 97.1702,
+      "csi300_index": 98.6483,
+      "n225_index": 96.4793
     },
     {
       "date": "2026-03-09",
       "nav_index": 97.6351,
       "qqq_index": 99.3933,
-      "drawdown_pct": -7.411
+      "voo_index": 98.014,
+      "csi300_index": 97.6962,
+      "n225_index": 91.4627
     },
     {
       "date": "2026-03-10",
       "nav_index": 98.4863,
       "qqq_index": 99.3949,
-      "drawdown_pct": -6.6038
+      "voo_index": 97.8443,
+      "csi300_index": 98.9514,
+      "n225_index": 94.0987
     },
     {
       "date": "2026-03-11",
       "nav_index": 98.5629,
       "qqq_index": 99.3818,
-      "drawdown_pct": -6.5312
+      "voo_index": 97.7358,
+      "csi300_index": 99.5809,
+      "n225_index": 95.4464
     },
     {
       "date": "2026-03-12",
       "nav_index": 96.3763,
       "qqq_index": 97.6761,
-      "drawdown_pct": -8.6047
+      "voo_index": 96.2385,
+      "csi300_index": 99.2223,
+      "n225_index": 94.4535
     },
     {
       "date": "2026-03-13",
       "nav_index": 95.9834,
       "qqq_index": 97.0972,
-      "drawdown_pct": -8.9773
+      "voo_index": 95.7027,
+      "csi300_index": 98.8324,
+      "n225_index": 93.3549
     },
     {
       "date": "2026-03-16",
       "nav_index": 97.1012,
       "qqq_index": 98.1863,
-      "drawdown_pct": -7.9173
+      "voo_index": 96.6611,
+      "csi300_index": 98.8836,
+      "n225_index": 93.2362
     },
     {
       "date": "2026-03-17",
       "nav_index": 97.5865,
       "qqq_index": 98.6655,
-      "drawdown_pct": -7.4571
+      "voo_index": 96.9282,
+      "csi300_index": 98.1614,
+      "n225_index": 93.1481
     },
     {
       "date": "2026-03-18",
       "nav_index": 96.0731,
       "qqq_index": 97.2901,
-      "drawdown_pct": -8.8923
+      "voo_index": 95.5911,
+      "csi300_index": 98.6036,
+      "n225_index": 95.8177
     },
     {
       "date": "2026-03-19",
       "nav_index": 95.8235,
       "qqq_index": 96.9827,
-      "drawdown_pct": -9.129
+      "voo_index": 95.335,
+      "csi300_index": 97.0144,
+      "n225_index": 92.5794
     },
     {
       "date": "2026-03-20",
       "nav_index": 94.9079,
       "qqq_index": 95.1903,
-      "drawdown_pct": -9.9972
+      "voo_index": 93.9507,
+      "csi300_index": 96.6708,
+      "n225_index": 92.5794
     },
     {
       "date": "2026-03-23",
       "nav_index": 95.6005,
       "qqq_index": 96.1617,
-      "drawdown_pct": -9.3404
+      "voo_index": 94.9705,
+      "csi300_index": 93.5165,
+      "n225_index": 89.3582
     },
     {
       "date": "2026-03-24",
       "nav_index": 96.5149,
       "qqq_index": 95.5043,
-      "drawdown_pct": -8.4733
+      "voo_index": 94.6484,
+      "csi300_index": 94.7171,
+      "n225_index": 90.6362
     },
     {
       "date": "2026-03-25",
       "nav_index": 96.4787,
       "qqq_index": 96.1323,
-      "drawdown_pct": -8.5076
+      "voo_index": 95.1637,
+      "csi300_index": 96.0453,
+      "n225_index": 93.2335
     },
     {
       "date": "2026-03-26",
       "nav_index": 92.9428,
       "qqq_index": 93.8378,
-      "drawdown_pct": -11.8608
+      "voo_index": 93.4762,
+      "csi300_index": 94.7766,
+      "n225_index": 92.9803
     },
     {
       "date": "2026-03-27",
       "nav_index": 91.4354,
       "qqq_index": 92.0045,
-      "drawdown_pct": -13.2903
+      "voo_index": 91.597,
+      "csi300_index": 95.3066,
+      "n225_index": 92.5803
     },
     {
       "date": "2026-03-30",
       "nav_index": 90.157,
       "qqq_index": 91.3013,
-      "drawdown_pct": -14.5026
+      "voo_index": 91.278,
+      "csi300_index": 95.0818,
+      "n225_index": 90.0006
     },
     {
       "date": "2026-03-31",
       "nav_index": 93.5746,
       "qqq_index": 94.3922,
-      "drawdown_pct": -11.2616
+      "voo_index": 93.8894,
+      "csi300_index": 94.1949,
+      "n225_index": 88.5746
     },
     {
       "date": "2026-04-01",
       "nav_index": 94.8762,
       "qqq_index": 95.5582,
-      "drawdown_pct": -10.0273
+      "voo_index": 94.6358,
+      "csi300_index": 95.804,
+      "n225_index": 93.2163
     },
     {
       "date": "2026-04-02",
       "nav_index": 94.551,
       "qqq_index": 95.6678,
-      "drawdown_pct": -10.3357
+      "voo_index": 94.7442,
+      "csi300_index": 94.8058,
+      "n225_index": 91.0022
     },
     {
       "date": "2026-04-03",
       "nav_index": 94.551,
       "qqq_index": 95.6678,
-      "drawdown_pct": -10.3357
+      "voo_index": 94.7442,
+      "csi300_index": 93.9989,
+      "n225_index": 92.1474
     },
     {
       "date": "2026-04-06",
       "nav_index": 94.9668,
       "qqq_index": 96.2435,
-      "drawdown_pct": -9.9414
+      "voo_index": 95.1653,
+      "csi300_index": 93.9989,
+      "n225_index": 92.6508
     },
     {
       "date": "2026-04-07",
       "nav_index": 95.2433,
       "qqq_index": 96.2582,
-      "drawdown_pct": -9.6792
+      "voo_index": 95.2234,
+      "csi300_index": 93.9953,
+      "n225_index": 92.6783
     },
     {
       "date": "2026-04-08",
       "nav_index": 97.2901,
       "qqq_index": 99.1202,
-      "drawdown_pct": -7.7382
+      "voo_index": 97.6274,
+      "csi300_index": 97.2749,
+      "n225_index": 97.672
     },
     {
       "date": "2026-04-09",
       "nav_index": 97.7641,
       "qqq_index": 99.7907,
-      "drawdown_pct": -7.2887
+      "voo_index": 98.2056,
+      "csi300_index": 96.6539,
+      "n225_index": 96.9554
     },
     {
       "date": "2026-04-10",
       "nav_index": 98.8031,
       "qqq_index": 99.9346,
-      "drawdown_pct": -6.3034
+      "voo_index": 98.1396,
+      "csi300_index": 98.143,
+      "n225_index": 98.7399
     },
     {
       "date": "2026-04-13",
       "nav_index": 100.4928,
       "qqq_index": 100.9682,
-      "drawdown_pct": -4.701
+      "voo_index": 99.1012,
+      "csi300_index": 98.346,
+      "n225_index": 98.0091
     },
     {
       "date": "2026-04-14",
       "nav_index": 103.075,
       "qqq_index": 102.8014,
-      "drawdown_pct": -2.2523
+      "voo_index": 100.3001,
+      "csi300_index": 99.5127,
+      "n225_index": 100.3935
     },
     {
       "date": "2026-04-15",
       "nav_index": 105.8105,
       "qqq_index": 104.2406,
-      "drawdown_pct": 0.0
+      "voo_index": 101.1014,
+      "csi300_index": 99.1734,
+      "n225_index": 100.839
     },
     {
       "date": "2026-04-16",
       "nav_index": 105.8827,
       "qqq_index": 104.7427,
-      "drawdown_pct": 0.0
+      "voo_index": 101.323,
+      "csi300_index": 100.2606,
+      "n225_index": 103.2399
     },
     {
       "date": "2026-04-17",
       "nav_index": 108.0532,
       "qqq_index": 106.1131,
-      "drawdown_pct": 0.0
+      "voo_index": 102.5674,
+      "csi300_index": 100.0925,
+      "n225_index": 101.4317
     },
     {
       "date": "2026-04-20",
       "nav_index": 108.0995,
       "qqq_index": 105.7762,
-      "drawdown_pct": 0.0
+      "voo_index": 102.3726,
+      "csi300_index": 100.7015,
+      "n225_index": 102.037
     },
     {
       "date": "2026-04-21",
       "nav_index": 107.6292,
       "qqq_index": 105.3739,
-      "drawdown_pct": -0.4351
+      "voo_index": 101.6985,
+      "csi300_index": 100.925,
+      "n225_index": 102.9464
     },
     {
       "date": "2026-04-22",
       "nav_index": 111.433,
       "qqq_index": 107.1369,
-      "drawdown_pct": 0.0
+      "voo_index": 102.7434,
+      "csi300_index": 101.5945,
+      "n225_index": 103.357
     },
     {
       "date": "2026-04-23",
       "nav_index": 110.4244,
       "qqq_index": 106.5334,
-      "drawdown_pct": -0.9051
+      "voo_index": 102.3286,
+      "csi300_index": 101.313,
+      "n225_index": 102.584
     },
     {
       "date": "2026-04-24",
       "nav_index": 112.8505,
       "qqq_index": 108.5712,
-      "drawdown_pct": 0.0
+      "voo_index": 103.1393,
+      "csi300_index": 100.954,
+      "n225_index": 103.583
     },
     {
       "date": "2026-04-27",
       "nav_index": 112.7034,
       "qqq_index": 108.6284,
-      "drawdown_pct": -0.1303
+      "voo_index": 103.309,
+      "csi300_index": 100.9875,
+      "n225_index": 105.0074
     },
     {
       "date": "2026-04-28",
       "nav_index": 110.871,
       "qqq_index": 107.5359,
-      "drawdown_pct": -1.7541
+      "voo_index": 102.8,
+      "csi300_index": 100.7178,
+      "n225_index": 103.9322
     },
     {
       "date": "2026-04-29",
       "nav_index": 110.8983,
       "qqq_index": 108.1934,
-      "drawdown_pct": -1.7299
+      "voo_index": 102.7968,
+      "csi300_index": 101.8214,
+      "n225_index": 103.9322
     },
     {
       "date": "2026-04-30",
       "nav_index": 113.0437,
       "qqq_index": 109.2024,
-      "drawdown_pct": 0.0
+      "voo_index": 103.793,
+      "csi300_index": 101.7571,
+      "n225_index": 102.835
     },
     {
       "date": "2026-05-01",
       "nav_index": 115.1269,
       "qqq_index": 110.2507,
-      "drawdown_pct": 0.0
+      "voo_index": 104.0978,
+      "csi300_index": 101.7571,
+      "n225_index": 103.2308
     },
     {
       "date": "2026-05-04",
       "nav_index": 114.5032,
       "qqq_index": 110.043,
-      "drawdown_pct": -0.5418
+      "voo_index": 103.7207,
+      "csi300_index": 101.7571,
+      "n225_index": 103.2308
     },
     {
       "date": "2026-05-05",
       "nav_index": 117.7619,
       "qqq_index": 111.4707,
-      "drawdown_pct": 0.0
+      "voo_index": 104.5346,
+      "csi300_index": 101.7571,
+      "n225_index": 103.2308
     },
     {
       "date": "2026-05-06",
       "nav_index": 123.0261,
       "qqq_index": 113.7865,
-      "drawdown_pct": 0.0
+      "voo_index": 106.0053,
+      "csi300_index": 103.2341,
+      "n225_index": 103.2308
     },
     {
       "date": "2026-05-07",
       "nav_index": 120.0403,
       "qqq_index": 113.6507,
-      "drawdown_pct": -2.427
+      "voo_index": 105.6722,
+      "csi300_index": 103.7299,
+      "n225_index": 108.9909
     },
     {
       "date": "2026-05-08",
       "nav_index": 125.4321,
       "qqq_index": 116.3148,
-      "drawdown_pct": 0.0
+      "voo_index": 106.5364,
+      "csi300_index": 103.1245,
+      "n225_index": 108.7824
     },
     {
       "date": "2026-05-11",
       "nav_index": 126.558,
       "qqq_index": 116.6517,
-      "drawdown_pct": 0.0
+      "voo_index": 106.7689,
+      "csi300_index": 104.8164,
+      "n225_index": 108.2694
     },
     {
       "date": "2026-05-12",
       "nav_index": 124.0532,
       "qqq_index": 115.6623,
-      "drawdown_pct": -1.9792
+      "voo_index": 106.6353,
+      "csi300_index": 104.7362,
+      "n225_index": 108.8326
     },
     {
       "date": "2026-05-13",
       "nav_index": 127.5136,
       "qqq_index": 116.8839,
-      "drawdown_pct": 0.0
+      "voo_index": 107.223,
+      "csi300_index": 105.8006,
+      "n225_index": 109.7511
     },
     {
       "date": "2026-05-14",
       "nav_index": 128.5868,
       "qqq_index": 117.7147,
-      "drawdown_pct": 0.0
+      "voo_index": 108.0589,
+      "csi300_index": 104.0281,
+      "n225_index": 108.679
     },
     {
       "date": "2026-05-15",
       "nav_index": 123.7959,
       "qqq_index": 115.9386,
-      "drawdown_pct": -3.7258
+      "voo_index": 106.7563,
+      "csi300_index": 102.8637,
+      "n225_index": 106.5199
     },
     {
       "date": "2026-05-18",
       "nav_index": 122.4225,
       "qqq_index": 115.4398,
-      "drawdown_pct": -4.7939
+      "voo_index": 106.6731,
+      "csi300_index": 102.3119,
+      "n225_index": 105.4907
     },
     {
       "date": "2026-05-19",
       "nav_index": 122.3321,
       "qqq_index": 114.7285,
-      "drawdown_pct": -4.8642
+      "voo_index": 105.9943,
+      "csi300_index": 102.7217,
+      "n225_index": 105.0304
     },
     {
       "date": "2026-05-20",
       "nav_index": 126.9794,
       "qqq_index": 116.6288,
-      "drawdown_pct": -1.2501
+      "voo_index": 107.091,
+      "csi300_index": 102.6755,
+      "n225_index": 103.7361
     },
     {
       "date": "2026-05-21",
       "nav_index": 128.8503,
       "qqq_index": 116.8512,
-      "drawdown_pct": 0.0
+      "voo_index": 107.2906,
+      "csi300_index": 101.2446,
+      "n225_index": 106.9966
     },
     {
       "date": "2026-05-22",
       "nav_index": 129.5723,
       "qqq_index": 117.3467,
-      "drawdown_pct": 0.0
+      "voo_index": 107.7164,
+      "csi300_index": 102.557,
+      "n225_index": 109.8673
     },
     {
       "date": "2026-05-25",
       "nav_index": 129.5723,
       "qqq_index": 117.3467,
-      "drawdown_pct": 0.0
+      "voo_index": 107.7164,
+      "csi300_index": 104.1763,
+      "n225_index": 113.0227
     },
     {
       "date": "2026-05-26",
       "nav_index": 135.2119,
       "qqq_index": 119.4302,
-      "drawdown_pct": 0.0
+      "voo_index": 108.4171,
+      "csi300_index": 104.7319,
+      "n225_index": 112.7415
     },
     {
       "date": "2026-05-27",
       "nav_index": 134.1484,
       "qqq_index": 119.2945,
-      "drawdown_pct": -0.7865
+      "voo_index": 108.4093,
+      "csi300_index": 103.892,
+      "n225_index": 112.7473
     },
     {
       "date": "2026-05-28",
       "nav_index": 136.5272,
       "qqq_index": 120.3003,
-      "drawdown_pct": 0.0
+      "voo_index": 109.0299,
+      "csi300_index": 104.0199,
+      "n225_index": 112.216
     },
     {
       "date": "2026-05-29",
       "nav_index": 136.8362,
       "qqq_index": 120.7435,
-      "drawdown_pct": 0.0
+      "voo_index": 109.2782,
+      "csi300_index": 103.5523,
+      "n225_index": 115.0544
     }
   ],
   "stats": {
@@ -483,7 +641,9 @@
     "qqq_return_pct": 20.743,
     "alpha_pp": 16.093,
     "sharpe_annualized": 3.538,
-    "mdd_pct": -14.503,
-    "win_days_pct": 57.69
+    "win_days_pct": 57.69,
+    "voo_return_pct": 9.278,
+    "csi300_return_pct": 3.552,
+    "n225_return_pct": 15.054
   }
 }
