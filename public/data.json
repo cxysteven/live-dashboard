@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-29",
+  "as_of": "2026-06-02",
   "live_start_date": "2026-02-10",
   "series": [
     {
@@ -633,17 +633,33 @@
       "voo_index": 109.2782,
       "csi300_index": 103.5523,
       "n225_index": 115.0544
+    },
+    {
+      "date": "2026-06-01",
+      "nav_index": 143.7429,
+      "qqq_index": 121.4679,
+      "voo_index": 109.5626,
+      "csi300_index": 102.5392,
+      "n225_index": 116.1036
+    },
+    {
+      "date": "2026-06-02",
+      "nav_index": 148.5028,
+      "qqq_index": 122.0272,
+      "voo_index": 109.7134,
+      "csi300_index": 104.0273,
+      "n225_index": 115.7565
     }
   ],
   "stats": {
-    "days_live": 79,
-    "total_return_pct": 36.836,
-    "qqq_return_pct": 20.743,
-    "alpha_pp": 16.093,
-    "sharpe_annualized": 3.538,
-    "win_days_pct": 57.69,
-    "voo_return_pct": 9.278,
-    "csi300_return_pct": 3.552,
-    "n225_return_pct": 15.054
+    "days_live": 81,
+    "total_return_pct": 48.503,
+    "qqq_return_pct": 22.027,
+    "alpha_pp": 26.476,
+    "sharpe_annualized": 4.169,
+    "win_days_pct": 58.75,
+    "voo_return_pct": 9.713,
+    "csi300_return_pct": 4.027,
+    "n225_return_pct": 15.757
   }
 }
