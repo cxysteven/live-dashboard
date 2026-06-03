@@ -8,7 +8,10 @@
       "qqq_index": 100.0,
       "voo_index": 100.0,
       "csi300_index": 100.0,
-      "n225_index": 100.0
+      "n225_index": 100.0,
+      "kospi_index": 100.0,
+      "sti_index": 100.0,
+      "mag7_index": 100.0
     },
     {
       "date": "2026-02-11",
@@ -16,7 +19,10 @@
       "qqq_index": 100.2682,
       "voo_index": 99.9859,
       "csi300_index": 99.7782,
-      "n225_index": 100.0
+      "n225_index": 100.0,
+      "kospi_index": 100.9959,
+      "sti_index": 100.4095,
+      "mag7_index": 99.3866
     },
     {
       "date": "2026-02-12",
@@ -24,7 +30,10 @@
       "qqq_index": 98.2289,
       "voo_index": 98.4366,
       "csi300_index": 99.9001,
-      "n225_index": 99.9814
+      "n225_index": 99.9814,
+      "kospi_index": 104.1606,
+      "sti_index": 101.0578,
+      "mag7_index": 97.0903
     },
     {
       "date": "2026-02-13",
@@ -32,7 +41,10 @@
       "qqq_index": 98.4382,
       "voo_index": 98.4995,
       "csi300_index": 98.6476,
-      "n225_index": 98.7709
+      "n225_index": 98.7709,
+      "kospi_index": 103.8727,
+      "sti_index": 99.4668,
+      "mag7_index": 96.178
     },
     {
       "date": "2026-02-16",
@@ -40,7 +52,10 @@
       "qqq_index": 98.4382,
       "voo_index": 98.4995,
       "csi300_index": 98.6476,
-      "n225_index": 98.5358
+      "n225_index": 98.5358,
+      "kospi_index": 103.8727,
+      "sti_index": 99.4829,
+      "mag7_index": 96.178
     },
     {
       "date": "2026-02-17",
@@ -48,7 +63,10 @@
       "qqq_index": 98.3368,
       "voo_index": 98.6723,
       "csi300_index": 98.6476,
-      "n225_index": 98.1196
+      "n225_index": 98.1196,
+      "kospi_index": 103.8727,
+      "sti_index": 99.4829,
+      "mag7_index": 96.3668
     },
     {
       "date": "2026-02-18",
@@ -56,7 +74,10 @@
       "qqq_index": 99.0711,
       "voo_index": 99.1688,
       "csi300_index": 98.6476,
-      "n225_index": 99.1211
+      "n225_index": 99.1211,
+      "kospi_index": 103.8727,
+      "sti_index": 99.4829,
+      "mag7_index": 97.0274
     },
     {
       "date": "2026-02-19",
@@ -64,7 +85,10 @@
       "qqq_index": 98.6917,
       "voo_index": 98.9143,
       "csi300_index": 98.6476,
-      "n225_index": 99.6831
+      "n225_index": 99.6831,
+      "kospi_index": 107.0838,
+      "sti_index": 100.7516,
+      "mag7_index": 96.8701
     },
     {
       "date": "2026-02-20",
@@ -72,7 +96,10 @@
       "qqq_index": 99.565,
       "voo_index": 99.6198,
       "csi300_index": 98.6476,
-      "n225_index": 98.5692
+      "n225_index": 98.5692,
+      "kospi_index": 109.56,
+      "sti_index": 101.0747,
+      "mag7_index": 98.4586
     },
     {
       "date": "2026-02-23",
@@ -80,7 +107,10 @@
       "qqq_index": 98.3548,
       "voo_index": 98.6157,
       "csi300_index": 98.6476,
-      "n225_index": 98.5692
+      "n225_index": 98.5692,
+      "kospi_index": 110.2684,
+      "sti_index": 101.5527,
+      "mag7_index": 96.8858
     },
     {
       "date": "2026-02-24",
@@ -88,7 +118,10 @@
       "qqq_index": 99.4113,
       "voo_index": 99.3354,
       "csi300_index": 99.6452,
-      "n225_index": 99.4285
+      "n225_index": 99.4285,
+      "kospi_index": 112.5988,
+      "sti_index": 101.1389,
+      "mag7_index": 98.0025
     },
     {
       "date": "2026-02-25",
@@ -96,7 +129,10 @@
       "qqq_index": 100.852,
       "voo_index": 100.1713,
       "csi300_index": 100.2453,
-      "n225_index": 101.6176
+      "n225_index": 101.6176,
+      "kospi_index": 114.7532,
+      "sti_index": 100.8759,
+      "mag7_index": 99.5124
     },
     {
       "date": "2026-02-26",
@@ -104,7 +140,10 @@
       "qqq_index": 99.6353,
       "voo_index": 99.6088,
       "csi300_index": 100.0544,
-      "n225_index": 101.913
+      "n225_index": 101.913,
+      "kospi_index": 118.9672,
+      "sti_index": 100.0026,
+      "mag7_index": 97.9396
     },
     {
       "date": "2026-02-27",
@@ -112,7 +151,10 @@
       "qqq_index": 99.3164,
       "voo_index": 99.1515,
       "csi300_index": 99.7111,
-      "n225_index": 102.081
+      "n225_index": 102.081,
+      "kospi_index": 117.7762,
+      "sti_index": 100.6208,
+      "mag7_index": 96.4926
     },
     {
       "date": "2026-03-02",
@@ -120,7 +162,10 @@
       "qqq_index": 99.4472,
       "voo_index": 99.1892,
       "csi300_index": 100.0925,
-      "n225_index": 100.7055
+      "n225_index": 100.7055,
+      "kospi_index": 117.7762,
+      "sti_index": 98.5216,
+      "mag7_index": 96.9015
     },
     {
       "date": "2026-03-03",
@@ -128,7 +173,10 @@
       "qqq_index": 98.3826,
       "voo_index": 98.3156,
       "csi300_index": 98.5522,
-      "n225_index": 97.621
+      "n225_index": 97.621,
+      "kospi_index": 109.2465,
+      "sti_index": 99.0411,
+      "mag7_index": 96.3982
     },
     {
       "date": "2026-03-04",
@@ -136,7 +184,10 @@
       "qqq_index": 99.8823,
       "voo_index": 99.0164,
       "csi300_index": 97.4246,
-      "n225_index": 94.0937
+      "n225_index": 94.0937,
+      "kospi_index": 96.0739,
+      "sti_index": 96.9482,
+      "mag7_index": 97.8767
     },
     {
       "date": "2026-03-05",
@@ -144,7 +195,10 @@
       "qqq_index": 99.5813,
       "voo_index": 98.4869,
       "csi300_index": 98.3784,
-      "n225_index": 95.8847
+      "n225_index": 95.8847,
+      "kospi_index": 105.323,
+      "sti_index": 97.6293,
+      "mag7_index": 97.7666
     },
     {
       "date": "2026-03-06",
@@ -152,7 +206,10 @@
       "qqq_index": 98.0833,
       "voo_index": 97.1702,
       "csi300_index": 98.6483,
-      "n225_index": 96.4793
+      "n225_index": 96.4793,
+      "kospi_index": 105.3413,
+      "sti_index": 97.6633,
+      "mag7_index": 95.9264
     },
     {
       "date": "2026-03-09",
@@ -160,7 +217,10 @@
       "qqq_index": 99.3933,
       "voo_index": 98.014,
       "csi300_index": 97.6962,
-      "n225_index": 91.4627
+      "n225_index": 91.4627,
+      "kospi_index": 99.0603,
+      "sti_index": 95.8173,
+      "mag7_index": 97.0746
     },
     {
       "date": "2026-03-10",
@@ -168,7 +228,10 @@
       "qqq_index": 99.3949,
       "voo_index": 97.8443,
       "csi300_index": 98.9514,
-      "n225_index": 94.0987
+      "n225_index": 94.0987,
+      "kospi_index": 104.3552,
+      "sti_index": 97.9129,
+      "mag7_index": 97.4048
     },
     {
       "date": "2026-03-11",
@@ -176,7 +239,10 @@
       "qqq_index": 99.3818,
       "voo_index": 97.7358,
       "csi300_index": 99.5809,
-      "n225_index": 95.4464
+      "n225_index": 95.4464,
+      "kospi_index": 105.8144,
+      "sti_index": 97.9767,
+      "mag7_index": 97.7509
     },
     {
       "date": "2026-03-12",
@@ -184,7 +250,10 @@
       "qqq_index": 97.6761,
       "voo_index": 96.2385,
       "csi300_index": 99.2223,
-      "n225_index": 94.4535
+      "n225_index": 94.4535,
+      "kospi_index": 105.3108,
+      "sti_index": 97.8059,
+      "mag7_index": 95.8635
     },
     {
       "date": "2026-03-13",
@@ -192,7 +261,10 @@
       "qqq_index": 97.0972,
       "voo_index": 95.7027,
       "csi300_index": 98.8324,
-      "n225_index": 93.3549
+      "n225_index": 93.3549,
+      "kospi_index": 103.4998,
+      "sti_index": 97.5428,
+      "mag7_index": 94.2749
     },
     {
       "date": "2026-03-16",
@@ -200,7 +272,10 @@
       "qqq_index": 98.1863,
       "voo_index": 96.6611,
       "csi300_index": 98.8836,
-      "n225_index": 93.2362
+      "n225_index": 93.2362,
+      "kospi_index": 104.6808,
+      "sti_index": 98.075,
+      "mag7_index": 95.7534
     },
     {
       "date": "2026-03-17",
@@ -208,7 +283,10 @@
       "qqq_index": 98.6655,
       "voo_index": 96.9282,
       "csi300_index": 98.1614,
-      "n225_index": 93.1481
+      "n225_index": 93.1481,
+      "kospi_index": 106.3902,
+      "sti_index": 99.4303,
+      "mag7_index": 96.1466
     },
     {
       "date": "2026-03-18",
@@ -216,7 +294,10 @@
       "qqq_index": 97.2901,
       "voo_index": 95.5911,
       "csi300_index": 98.6036,
-      "n225_index": 95.8177
+      "n225_index": 95.8177,
+      "kospi_index": 111.7574,
+      "sti_index": 100.7639,
+      "mag7_index": 94.6839
     },
     {
       "date": "2026-03-19",
@@ -224,7 +305,10 @@
       "qqq_index": 96.9827,
       "voo_index": 95.335,
       "csi300_index": 97.0144,
-      "n225_index": 92.5794
+      "n225_index": 92.5794,
+      "kospi_index": 108.7053,
+      "sti_index": 100.0677,
+      "mag7_index": 93.6615
     },
     {
       "date": "2026-03-20",
@@ -232,7 +316,10 @@
       "qqq_index": 95.1903,
       "voo_index": 93.9507,
       "csi300_index": 96.6708,
-      "n225_index": 92.5794
+      "n225_index": 92.5794,
+      "kospi_index": 109.0445,
+      "sti_index": 99.6902,
+      "mag7_index": 91.8056
     },
     {
       "date": "2026-03-23",
@@ -240,7 +327,10 @@
       "qqq_index": 96.1617,
       "voo_index": 94.9705,
       "csi300_index": 93.5165,
-      "n225_index": 89.3582
+      "n225_index": 89.3582,
+      "kospi_index": 101.9628,
+      "sti_index": 97.5233,
+      "mag7_index": 93.2369
     },
     {
       "date": "2026-03-24",
@@ -248,7 +338,10 @@
       "qqq_index": 95.5043,
       "voo_index": 94.6484,
       "csi300_index": 94.7171,
-      "n225_index": 90.6362
+      "n225_index": 90.6362,
+      "kospi_index": 104.7575,
+      "sti_index": 97.9489,
+      "mag7_index": 92.0258
     },
     {
       "date": "2026-03-25",
@@ -256,7 +349,10 @@
       "qqq_index": 96.1323,
       "voo_index": 95.1637,
       "csi300_index": 96.0453,
-      "n225_index": 93.2335
+      "n225_index": 93.2335,
+      "kospi_index": 106.4229,
+      "sti_index": 98.7972,
+      "mag7_index": 92.7178
     },
     {
       "date": "2026-03-26",
@@ -264,7 +360,10 @@
       "qqq_index": 93.8378,
       "voo_index": 93.4762,
       "csi300_index": 94.7766,
-      "n225_index": 92.9803
+      "n225_index": 92.9803,
+      "kospi_index": 102.9947,
+      "sti_index": 98.4592,
+      "mag7_index": 89.698
     },
     {
       "date": "2026-03-27",
@@ -272,7 +371,10 @@
       "qqq_index": 92.0045,
       "voo_index": 91.597,
       "csi300_index": 95.3066,
-      "n225_index": 92.5803
+      "n225_index": 92.5803,
+      "kospi_index": 102.5875,
+      "sti_index": 98.6691,
+      "mag7_index": 87.213
     },
     {
       "date": "2026-03-30",
@@ -280,7 +382,10 @@
       "qqq_index": 91.3013,
       "voo_index": 91.278,
       "csi300_index": 95.0818,
-      "n225_index": 90.0006
+      "n225_index": 90.0006,
+      "kospi_index": 99.54,
+      "sti_index": 98.6505,
+      "mag7_index": 87.1186
     },
     {
       "date": "2026-03-31",
@@ -288,7 +393,10 @@
       "qqq_index": 94.3922,
       "voo_index": 93.8894,
       "csi300_index": 94.1949,
-      "n225_index": 88.5746
+      "n225_index": 88.5746,
+      "kospi_index": 95.299,
+      "sti_index": 98.4127,
+      "mag7_index": 91.1293
     },
     {
       "date": "2026-04-01",
@@ -296,7 +404,10 @@
       "qqq_index": 95.5582,
       "voo_index": 94.6358,
       "csi300_index": 95.804,
-      "n225_index": 93.2163
+      "n225_index": 93.2163,
+      "kospi_index": 103.3388,
+      "sti_index": 100.2333,
+      "mag7_index": 92.2932
     },
     {
       "date": "2026-04-02",
@@ -304,7 +415,10 @@
       "qqq_index": 95.6678,
       "voo_index": 94.7442,
       "csi300_index": 94.8058,
-      "n225_index": 91.0022
+      "n225_index": 91.0022,
+      "kospi_index": 98.7242,
+      "sti_index": 99.6626,
+      "mag7_index": 91.6483
     },
     {
       "date": "2026-04-03",
@@ -312,7 +426,10 @@
       "qqq_index": 95.6678,
       "voo_index": 94.7442,
       "csi300_index": 93.9989,
-      "n225_index": 92.1474
+      "n225_index": 92.1474,
+      "kospi_index": 101.4261,
+      "sti_index": 99.6626,
+      "mag7_index": 91.6483
     },
     {
       "date": "2026-04-06",
@@ -320,7 +437,10 @@
       "qqq_index": 96.2435,
       "voo_index": 95.1653,
       "csi300_index": 93.9989,
-      "n225_index": 92.6508
+      "n225_index": 92.6508,
+      "kospi_index": 102.8036,
+      "sti_index": 100.1642,
+      "mag7_index": 91.8213
     },
     {
       "date": "2026-04-07",
@@ -328,7 +448,10 @@
       "qqq_index": 96.2582,
       "voo_index": 95.2234,
       "csi300_index": 93.9953,
-      "n225_index": 92.6783
+      "n225_index": 92.6783,
+      "kospi_index": 103.642,
+      "sti_index": 99.8743,
+      "mag7_index": 91.6798
     },
     {
       "date": "2026-04-08",
@@ -336,7 +459,10 @@
       "qqq_index": 99.1202,
       "voo_index": 97.6274,
       "csi300_index": 97.2749,
-      "n225_index": 97.672
+      "n225_index": 97.672,
+      "kospi_index": 110.7635,
+      "sti_index": 100.6406,
+      "mag7_index": 94.0862
     },
     {
       "date": "2026-04-09",
@@ -344,7 +470,10 @@
       "qqq_index": 99.7907,
       "voo_index": 98.2056,
       "csi300_index": 96.6539,
-      "n225_index": 96.9554
+      "n225_index": 96.9554,
+      "kospi_index": 108.9843,
+      "sti_index": 100.2584,
+      "mag7_index": 95.5017
     },
     {
       "date": "2026-04-10",
@@ -352,7 +481,10 @@
       "qqq_index": 99.9346,
       "voo_index": 98.1396,
       "csi300_index": 98.143,
-      "n225_index": 98.7399
+      "n225_index": 98.7399,
+      "kospi_index": 110.5095,
+      "sti_index": 100.5068,
+      "mag7_index": 96.1623
     },
     {
       "date": "2026-04-13",
@@ -360,7 +492,10 @@
       "qqq_index": 100.9682,
       "voo_index": 99.1012,
       "csi300_index": 98.346,
-      "n225_index": 98.0091
+      "n225_index": 98.0091,
+      "kospi_index": 109.5617,
+      "sti_index": 100.4013,
+      "mag7_index": 97.1375
     },
     {
       "date": "2026-04-14",
@@ -368,7 +503,10 @@
       "qqq_index": 102.8014,
       "voo_index": 100.3001,
       "csi300_index": 99.5127,
-      "n225_index": 100.3935
+      "n225_index": 100.3935,
+      "kospi_index": 112.5632,
+      "sti_index": 100.8726,
+      "mag7_index": 100.0472
     },
     {
       "date": "2026-04-15",
@@ -376,7 +514,10 @@
       "qqq_index": 104.2406,
       "voo_index": 101.1014,
       "csi300_index": 99.1734,
-      "n225_index": 100.839
+      "n225_index": 100.839,
+      "kospi_index": 114.8953,
+      "sti_index": 101.1472,
+      "mag7_index": 102.6423
     },
     {
       "date": "2026-04-16",
@@ -384,7 +525,10 @@
       "qqq_index": 104.7427,
       "voo_index": 101.323,
       "csi300_index": 100.2606,
-      "n225_index": 103.2399
+      "n225_index": 103.2399,
+      "kospi_index": 117.4352,
+      "sti_index": 100.8779,
+      "mag7_index": 102.721
     },
     {
       "date": "2026-04-17",
@@ -392,7 +536,10 @@
       "qqq_index": 106.1131,
       "voo_index": 102.5674,
       "csi300_index": 100.0925,
-      "n225_index": 101.4317
+      "n225_index": 101.4317,
+      "kospi_index": 116.7914,
+      "sti_index": 100.6785,
+      "mag7_index": 104.514
     },
     {
       "date": "2026-04-20",
@@ -400,7 +547,10 @@
       "qqq_index": 105.7762,
       "voo_index": 102.3726,
       "csi300_index": 100.7015,
-      "n225_index": 102.037
+      "n225_index": 102.037,
+      "kospi_index": 117.3039,
+      "sti_index": 100.8021,
+      "mag7_index": 103.4288
     },
     {
       "date": "2026-04-21",
@@ -408,7 +558,10 @@
       "qqq_index": 105.3739,
       "voo_index": 101.6985,
       "csi300_index": 100.925,
-      "n225_index": 102.9464
+      "n225_index": 102.9464,
+      "kospi_index": 120.4988,
+      "sti_index": 101.0215,
+      "mag7_index": 102.721
     },
     {
       "date": "2026-04-22",
@@ -416,7 +569,10 @@
       "qqq_index": 107.1369,
       "voo_index": 102.7434,
       "csi300_index": 101.5945,
-      "n225_index": 103.357
+      "n225_index": 103.357,
+      "kospi_index": 121.0544,
+      "sti_index": 100.7749,
+      "mag7_index": 104.4983
     },
     {
       "date": "2026-04-23",
@@ -424,7 +580,10 @@
       "qqq_index": 106.5334,
       "voo_index": 102.3286,
       "csi300_index": 101.313,
-      "n225_index": 102.584
+      "n225_index": 102.584,
+      "kospi_index": 122.1461,
+      "sti_index": 99.5943,
+      "mag7_index": 102.7524
     },
     {
       "date": "2026-04-24",
@@ -432,7 +591,10 @@
       "qqq_index": 108.5712,
       "voo_index": 103.1393,
       "csi300_index": 100.954,
-      "n225_index": 103.583
+      "n225_index": 103.583,
+      "kospi_index": 122.1427,
+      "sti_index": 99.1662,
+      "mag7_index": 104.7027
     },
     {
       "date": "2026-04-27",
@@ -440,7 +602,10 @@
       "qqq_index": 108.6284,
       "voo_index": 103.309,
       "csi300_index": 100.9875,
-      "n225_index": 105.0074
+      "n225_index": 105.0074,
+      "kospi_index": 124.7721,
+      "sti_index": 98.5593,
+      "mag7_index": 105.5049
     },
     {
       "date": "2026-04-28",
@@ -448,7 +613,10 @@
       "qqq_index": 107.5359,
       "voo_index": 102.8,
       "csi300_index": 100.7178,
-      "n225_index": 103.9322
+      "n225_index": 103.9322,
+      "kospi_index": 125.2623,
+      "sti_index": 98.4578,
+      "mag7_index": 105.1589
     },
     {
       "date": "2026-04-29",
@@ -456,7 +624,10 @@
       "qqq_index": 108.1934,
       "voo_index": 102.7968,
       "csi300_index": 101.8214,
-      "n225_index": 103.9322
+      "n225_index": 103.9322,
+      "kospi_index": 126.2032,
+      "sti_index": 97.9195,
+      "mag7_index": 104.7185
     },
     {
       "date": "2026-04-30",
@@ -464,7 +635,10 @@
       "qqq_index": 109.2024,
       "voo_index": 103.793,
       "csi300_index": 101.7571,
-      "n225_index": 102.835
+      "n225_index": 102.835,
+      "kospi_index": 124.4673,
+      "sti_index": 98.9614,
+      "mag7_index": 104.1837
     },
     {
       "date": "2026-05-01",
@@ -472,7 +646,10 @@
       "qqq_index": 110.2507,
       "voo_index": 104.0978,
       "csi300_index": 101.7571,
-      "n225_index": 103.2308
+      "n225_index": 103.2308,
+      "kospi_index": 124.4673,
+      "sti_index": 98.9614,
+      "mag7_index": 105.1746
     },
     {
       "date": "2026-05-04",
@@ -480,7 +657,10 @@
       "qqq_index": 110.043,
       "voo_index": 103.7207,
       "csi300_index": 101.7571,
-      "n225_index": 103.2308
+      "n225_index": 103.2308,
+      "kospi_index": 130.8449,
+      "sti_index": 99.1954,
+      "mag7_index": 105.3319
     },
     {
       "date": "2026-05-05",
@@ -488,7 +668,10 @@
       "qqq_index": 111.4707,
       "voo_index": 104.5346,
       "csi300_index": 101.7571,
-      "n225_index": 103.2308
+      "n225_index": 103.2308,
+      "kospi_index": 130.8449,
+      "sti_index": 99.1209,
+      "mag7_index": 105.5521
     },
     {
       "date": "2026-05-06",
@@ -496,7 +679,10 @@
       "qqq_index": 113.7865,
       "voo_index": 106.0053,
       "csi300_index": 103.2341,
-      "n225_index": 103.2308
+      "n225_index": 103.2308,
+      "kospi_index": 139.2869,
+      "sti_index": 99.2573,
+      "mag7_index": 107.6754
     },
     {
       "date": "2026-05-07",
@@ -504,7 +690,10 @@
       "qqq_index": 113.6507,
       "voo_index": 105.6722,
       "csi300_index": 103.7299,
-      "n225_index": 108.9909
+      "n225_index": 108.9909,
+      "kospi_index": 141.2766,
+      "sti_index": 99.551,
+      "mag7_index": 108.3517
     },
     {
       "date": "2026-05-08",
@@ -512,7 +701,10 @@
       "qqq_index": 116.3148,
       "voo_index": 106.5364,
       "csi300_index": 103.1245,
-      "n225_index": 108.7824
+      "n225_index": 108.7824,
+      "kospi_index": 141.4266,
+      "sti_index": 99.1469,
+      "mag7_index": 109.4998
     },
     {
       "date": "2026-05-11",
@@ -520,7 +712,10 @@
       "qqq_index": 116.6517,
       "voo_index": 106.7689,
       "csi300_index": 104.8164,
-      "n225_index": 108.2694
+      "n225_index": 108.2694,
+      "kospi_index": 147.5424,
+      "sti_index": 99.5673,
+      "mag7_index": 109.2167
     },
     {
       "date": "2026-05-12",
@@ -528,7 +723,10 @@
       "qqq_index": 115.6623,
       "voo_index": 106.6353,
       "csi300_index": 104.7362,
-      "n225_index": 108.8326
+      "n225_index": 108.8326,
+      "kospi_index": 144.1644,
+      "sti_index": 99.6324,
+      "mag7_index": 108.7134
     },
     {
       "date": "2026-05-13",
@@ -536,7 +734,10 @@
       "qqq_index": 116.8839,
       "voo_index": 107.223,
       "csi300_index": 105.8006,
-      "n225_index": 109.7511
+      "n225_index": 109.7511,
+      "kospi_index": 147.953,
+      "sti_index": 100.7999,
+      "mag7_index": 110.9311
     },
     {
       "date": "2026-05-14",
@@ -544,7 +745,10 @@
       "qqq_index": 117.7147,
       "voo_index": 108.0589,
       "csi300_index": 104.0281,
-      "n225_index": 108.679
+      "n225_index": 108.679,
+      "kospi_index": 150.5446,
+      "sti_index": 100.6384,
+      "mag7_index": 111.576
     },
     {
       "date": "2026-05-15",
@@ -552,7 +756,10 @@
       "qqq_index": 115.9386,
       "voo_index": 106.7563,
       "csi300_index": 102.8637,
-      "n225_index": 106.5199
+      "n225_index": 106.5199,
+      "kospi_index": 141.3357,
+      "sti_index": 100.5002,
+      "mag7_index": 109.8459
     },
     {
       "date": "2026-05-18",
@@ -560,7 +767,10 @@
       "qqq_index": 115.4398,
       "voo_index": 106.6731,
       "csi300_index": 102.3119,
-      "n225_index": 105.4907
+      "n225_index": 105.4907,
+      "kospi_index": 141.7669,
+      "sti_index": 100.6547,
+      "mag7_index": 109.2482
     },
     {
       "date": "2026-05-19",
@@ -568,7 +778,10 @@
       "qqq_index": 114.7285,
       "voo_index": 105.9943,
       "csi300_index": 102.7217,
-      "n225_index": 105.0304
+      "n225_index": 105.0304,
+      "kospi_index": 137.1574,
+      "sti_index": 102.1774,
+      "mag7_index": 107.7855
     },
     {
       "date": "2026-05-20",
@@ -576,7 +789,10 @@
       "qqq_index": 116.6288,
       "voo_index": 107.091,
       "csi300_index": 102.6755,
-      "n225_index": 103.7361
+      "n225_index": 103.7361,
+      "kospi_index": 135.9746,
+      "sti_index": 101.6248,
+      "mag7_index": 109.2954
     },
     {
       "date": "2026-05-21",
@@ -584,7 +800,10 @@
       "qqq_index": 116.8512,
       "voo_index": 107.2906,
       "csi300_index": 101.2446,
-      "n225_index": 106.9966
+      "n225_index": 106.9966,
+      "kospi_index": 147.417,
+      "sti_index": 101.6409,
+      "mag7_index": 109.3111
     },
     {
       "date": "2026-05-22",
@@ -592,7 +811,10 @@
       "qqq_index": 117.3467,
       "voo_index": 107.7164,
       "csi300_index": 102.557,
-      "n225_index": 109.8673
+      "n225_index": 109.8673,
+      "kospi_index": 148.0228,
+      "sti_index": 102.093,
+      "mag7_index": 109.0909
     },
     {
       "date": "2026-05-25",
@@ -600,7 +822,10 @@
       "qqq_index": 117.3467,
       "voo_index": 107.7164,
       "csi300_index": 104.1763,
-      "n225_index": 113.0227
+      "n225_index": 113.0227,
+      "kospi_index": 148.0228,
+      "sti_index": 102.1413,
+      "mag7_index": 109.0909
     },
     {
       "date": "2026-05-26",
@@ -608,7 +833,10 @@
       "qqq_index": 119.4302,
       "voo_index": 108.4171,
       "csi300_index": 104.7319,
-      "n225_index": 112.7415
+      "n225_index": 112.7415,
+      "kospi_index": 151.7914,
+      "sti_index": 101.3003,
+      "mag7_index": 109.5156
     },
     {
       "date": "2026-05-27",
@@ -616,7 +844,10 @@
       "qqq_index": 119.2945,
       "voo_index": 108.4093,
       "csi300_index": 103.892,
-      "n225_index": 112.7473
+      "n225_index": 112.7473,
+      "kospi_index": 155.209,
+      "sti_index": 101.3003,
+      "mag7_index": 110.6165
     },
     {
       "date": "2026-05-28",
@@ -624,7 +855,10 @@
       "qqq_index": 120.3003,
       "voo_index": 109.0299,
       "csi300_index": 104.0199,
-      "n225_index": 112.216
+      "n225_index": 112.216,
+      "kospi_index": 154.3902,
+      "sti_index": 100.5024,
+      "mag7_index": 111.4659
     },
     {
       "date": "2026-05-29",
@@ -632,7 +866,10 @@
       "qqq_index": 120.7435,
       "voo_index": 109.2782,
       "csi300_index": 103.5523,
-      "n225_index": 115.0544
+      "n225_index": 115.0544,
+      "kospi_index": 159.8764,
+      "sti_index": 101.4828,
+      "mag7_index": 111.2142
     },
     {
       "date": "2026-06-01",
@@ -640,7 +877,10 @@
       "qqq_index": 121.4679,
       "voo_index": 109.5626,
       "csi300_index": 102.5392,
-      "n225_index": 116.1036
+      "n225_index": 116.1036,
+      "kospi_index": 165.7656,
+      "sti_index": 101.4828,
+      "mag7_index": 109.8773
     },
     {
       "date": "2026-06-02",
@@ -648,7 +888,10 @@
       "qqq_index": 122.0272,
       "voo_index": 109.7134,
       "csi300_index": 104.0273,
-      "n225_index": 115.7565
+      "n225_index": 115.7565,
+      "kospi_index": 166.0129,
+      "sti_index": 102.6826,
+      "mag7_index": 108.7921
     }
   ],
   "stats": {
@@ -660,6 +903,9 @@
     "win_days_pct": 57.5,
     "voo_return_pct": 9.713,
     "csi300_return_pct": 4.027,
-    "n225_return_pct": 15.757
+    "n225_return_pct": 15.757,
+    "kospi_return_pct": 66.013,
+    "sti_return_pct": 2.683,
+    "mag7_return_pct": 8.792
   }
 }
