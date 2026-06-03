@@ -236,3 +236,35 @@ html, body, #root {
   .theme-track { flex-direction: column; align-items: flex-start; }
   .theme-arrow { display: none; }
 }
+
+/* Clickable chart legend */
+.legend-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 4px 11px;
+  font-size: 12.5px;
+  color: var(--fg);
+  cursor: pointer;
+  transition: opacity 0.15s, background 0.15s;
+  user-select: none;
+}
+.legend-item:hover { background: var(--bg-elev); }
+.legend-swatch {
+  width: 11px;
+  height: 11px;
+  border-radius: 3px;
+  border: 1.5px solid;
+  flex: none;
+}
+.legend-off { opacity: 0.4; }
+.legend-off .legend-label { text-decoration: line-through; }
