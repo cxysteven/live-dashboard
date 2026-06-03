@@ -17,6 +17,9 @@ export default function StatsRow({ stats }) {
     { label: "VOO", ret: stats.voo_return_pct },
     { label: "CSI300", ret: stats.csi300_return_pct },
     { label: "N225", ret: stats.n225_return_pct },
+    { label: "KOSPI", ret: stats.kospi_return_pct },
+    { label: "STI", ret: stats.sti_return_pct },
+    { label: "Mag7", ret: stats.mag7_return_pct },
   ].filter((b) => b.ret != null);
 
   const best = benchmarks.reduce((a, b) => (a.ret < b.ret ? a : b), benchmarks[0]);
