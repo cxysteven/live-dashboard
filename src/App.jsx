@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import NavCurveChart from "./components/NavCurveChart";
 import StatsRow from "./components/StatsRow";
+import ThemeRotation from "./components/ThemeRotation";
 import "./App.css";
 
 export default function App() {
@@ -36,6 +37,8 @@ export default function App() {
       <StatsRow stats={stats} />
 
       <NavCurveChart series={series} />
+
+      <ThemeRotation />
     </div>
   );
 }
