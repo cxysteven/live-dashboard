@@ -75,7 +75,10 @@ export default function NavCurveChart({ series }) {
 
   return (
     <div className="chart-card">
-      <div className="chart-title">Cumulative Return — indexed to 100 at start</div>
+      <div className="chart-title">
+        <span className="live-badge">● LIVE</span>
+        &nbsp;Manager-traded, real capital — cumulative return, indexed to 100 at start
+      </div>
       <ClickableLegend items={present} hidden={hidden} onToggle={toggle} />
       <ResponsiveContainer width="100%" height={420}>
         <LineChart data={series} margin={{ top: 8, right: 16, left: 0, bottom: 4 }}>
