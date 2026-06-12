@@ -7,20 +7,20 @@ import {
 // segments so a single chart shows "10yr walk-forward → live" as one continuous curve.
 function buildRows(combined) {
   const rows = combined.map((d) => {
-    const bt = d.phase === "backtest";
+    const bt = d.phase === "hist";
     return {
       date: d.date,
-      v3_bt: bt ? d.v3 : null,
+      as_bt: bt ? d.as : null,
       qqq_bt: bt ? d.qqq : null,
-      v3_live: bt ? null : d.v3,
+      as_live: bt ? null : d.as,
       qqq_live: bt ? null : d.qqq,
     };
   });
   // stitch the seam: last backtest point also seeds the live keys so solid joins dashed
   let lastBt = -1;
-  for (let i = 0; i < rows.length; i++) if (rows[i].v3_bt != null) lastBt = i;
+  for (let i = 0; i < rows.length; i++) if (rows[i].as_bt != null) lastBt = i;
   if (lastBt >= 0) {
-    rows[lastBt].v3_live = rows[lastBt].v3_bt;
+    rows[lastBt].as_live = rows[lastBt].as_bt;
     rows[lastBt].qqq_live = rows[lastBt].qqq_bt;
   }
   return rows;
@@ -32,7 +32,7 @@ function Tip({ active, payload, label }) {
     const p = payload.find((x) => x.dataKey === k && x.value != null);
     return p ? p.value : null;
   };
-  const v3 = get("v3_live") ?? get("v3_bt");
+  const v3 = get("as_live") ?? get("as_bt");
   const qqq = get("qqq_live") ?? get("qqq_bt");
   const mult = (x) => (x == null ? "—" : `${(x / 100).toFixed(1)}×`);
   return (
@@ -91,13 +91,13 @@ export default function BacktestLiveChart({ combined, meta }) {
           <Line dataKey="qqq_bt" stroke="var(--accent-qqq)" strokeWidth={1.4} strokeDasharray="4 3" dot={false} isAnimationActive={false} connectNulls={false} />
           <Line dataKey="qqq_live" stroke="var(--accent-qqq)" strokeWidth={1.8} dot={false} isAnimationActive={false} connectNulls={false} />
           {/* AlphaSeek front */}
-          <Line dataKey="v3_bt" stroke="var(--accent-as)" strokeWidth={2} strokeDasharray="5 3" dot={false} isAnimationActive={false} connectNulls={false} />
-          <Line dataKey="v3_live" stroke="var(--accent-as)" strokeWidth={2.8} dot={false} isAnimationActive={false} connectNulls={false} />
+          <Line dataKey="as_bt" stroke="var(--accent-as)" strokeWidth={2} strokeDasharray="5 3" dot={false} isAnimationActive={false} connectNulls={false} />
+          <Line dataKey="as_live" stroke="var(--accent-as)" strokeWidth={2.8} dot={false} isAnimationActive={false} connectNulls={false} />
         </LineChart>
       </ResponsiveContainer>
       <div className="chart-disclaimer">
-        Backtest {meta?.backtest_start}–{meta?.backtest_end}: monthly walk-forward simulation, no live
-        capital, costs included. Live since {liveStart}: real account, time-weighted. Past performance
+        Backtest {meta?.hist_start}–{meta?.hist_end}: monthly walk-forward simulation, no live
+        capital, costs included. Live since {liveStart}: real capital, time-weighted. Past performance
         does not guarantee future results.
       </div>
     </div>

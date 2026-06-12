@@ -40,7 +40,7 @@ export default function App() {
       <NavCurveChart series={series} />
 
       {data.combined ? (
-        <BacktestLiveChart combined={data.combined} meta={data.combined_meta} />
+        <BacktestLiveChart combined={data.combined} meta={data.combined_span} />
       ) : null}
 
       <ThemeRotation />
