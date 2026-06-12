@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import NavCurveChart from "./components/NavCurveChart";
+import BacktestLiveChart from "./components/BacktestLiveChart";
 import StatsRow from "./components/StatsRow";
 import ThemeRotation from "./components/ThemeRotation";
 import "./App.css";
@@ -37,6 +38,10 @@ export default function App() {
       <StatsRow stats={stats} />
 
       <NavCurveChart series={series} />
+
+      {data.combined ? (
+        <BacktestLiveChart combined={data.combined} meta={data.combined_meta} />
+      ) : null}
 
       <ThemeRotation />
     </div>
