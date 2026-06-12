@@ -21,11 +21,12 @@ function Tip({ active, payload, label }) {
 
 export default function BacktestLiveChart({ combined, meta }) {
   if (!combined || combined.length === 0) return null;
-  const liveStart = meta?.live_start;
+  const rows = combined.filter((d) => d.phase === "hist");
+  if (rows.length === 0) return null;
 
   return (
     <div className="chart-card">
-      <div className="chart-title">Growth of 1 — 10-year track (log scale)</div>
+      <div className="chart-title">Growth of 1 — 10-year backtest (log scale)</div>
       <div className="legend-row">
         <span className="legend-item" style={{ cursor: "default" }}>
           <span className="legend-swatch" style={{ background: "var(--accent-as)", borderColor: "var(--accent-as)" }} />
@@ -37,7 +38,7 @@ export default function BacktestLiveChart({ combined, meta }) {
         </span>
       </div>
       <ResponsiveContainer width="100%" height={420}>
-        <LineChart data={combined} margin={{ top: 8, right: 16, left: 0, bottom: 4 }}>
+        <LineChart data={rows} margin={{ top: 8, right: 16, left: 0, bottom: 4 }}>
           <CartesianGrid stroke="var(--grid)" strokeDasharray="3 3" />
           <XAxis dataKey="date" tick={{ fill: "var(--fg-muted)", fontSize: 12 }} minTickGap={48} />
           <YAxis
@@ -53,8 +54,8 @@ export default function BacktestLiveChart({ combined, meta }) {
         </LineChart>
       </ResponsiveContainer>
       <div className="chart-disclaimer">
-        {meta?.hist_start}–{meta?.hist_end} walk-forward simulation (no live capital, costs included);
-        live with real capital since {liveStart}. Past performance does not guarantee future results.
+        {meta?.hist_start}–{meta?.hist_end} walk-forward simulation (no live capital, costs included).
+        Live performance shown above. Past performance does not guarantee future results.
       </div>
     </div>
   );
