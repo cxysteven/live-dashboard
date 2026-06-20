@@ -6,14 +6,11 @@ import {
 import { fmtPct } from "../lib/format";
 
 const LINES = [
-  { key: "nav_index",    name: "AlphaSeek", color: "var(--accent-as)",     width: 2.4, dash: null,  z: 5 },
-  { key: "qqq_index",    name: "QQQ",       color: "var(--accent-qqq)",    width: 1.6, dash: "4 3", z: 4 },
-  { key: "voo_index",    name: "VOO",       color: "var(--accent-voo)",    width: 1.4, dash: "4 3", z: 3 },
-  { key: "csi300_index", name: "CSI 300",   color: "var(--accent-csi)",    width: 1.4, dash: "4 3", z: 2 },
-  { key: "n225_index",   name: "Nikkei",    color: "var(--accent-n225)",   width: 1.4, dash: "4 3", z: 1 },
-  { key: "kospi_index",  name: "KOSPI",     color: "var(--accent-kospi)",  width: 1.4, dash: "4 3", z: 1 },
-  { key: "sti_index",    name: "STI",       color: "var(--accent-sti)",    width: 1.4, dash: "4 3", z: 1 },
-  { key: "mag7_index",   name: "Mag7 ETF",  color: "var(--accent-mag7)",   width: 1.6, dash: "2 2", z: 3 },
+  { key: "nav_index",       name: "AlphaSeek (Live)", color: "var(--accent-as)",    width: 2.6, dash: null,  z: 5 },
+  { key: "model_index",     name: "AlphaSeek (Model)", color: "var(--accent-kospi)", width: 2.2, dash: "7 4", z: 4 },
+  { key: "qqq_index",       name: "QQQ",              color: "var(--accent-qqq)",   width: 1.6, dash: "4 3", z: 3 },
+  { key: "voo_index",       name: "VOO",              color: "var(--accent-voo)",   width: 1.4, dash: "4 3", z: 2 },
+  { key: "mag7_index",      name: "Mag7 ETF",         color: "var(--accent-mag7)",  width: 1.6, dash: "2 2", z: 2 },
 ];
 
 function CustomTooltip({ active, payload, label, hidden }) {
