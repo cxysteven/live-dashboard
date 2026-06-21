@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import NavCurveChart from "./components/NavCurveChart";
 import BacktestLiveChart from "./components/BacktestLiveChart";
 import StatsRow from "./components/StatsRow";
-import ThemeRotation from "./components/ThemeRotation";
 import TrackRecord from "./components/TrackRecord";
 import RollingBeatRate from "./components/RollingBeatRate";
 import OnChainProof from "./components/OnChainProof";
@@ -34,7 +33,7 @@ export default function App() {
         <h1>AlphaSeek</h1>
         <div className="hdr-tagline">Hunting alpha, one tick at a time.</div>
         <p className="hdr-desc">
-          A systematic, quantitative US-equity strategy. Positions are dynamically rotated by an
+          A systematic, quantitative US-equity strategy. Positions are selected by an
           AI (machine-learning) model from its signals — no discretionary stock-picking.
         </p>
         <p className="hdr-desc hdr-desc-cn">
@@ -60,7 +59,6 @@ export default function App() {
           {data.combined ? (
             <BacktestLiveChart combined={data.combined} meta={data.combined_span} />
           ) : null}
-          <ThemeRotation />
           <OnChainProof />
         </>
       ) : (

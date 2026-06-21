@@ -144,7 +144,7 @@ export default function TrackRecord() {
             </ResponsiveContainer>
           </div>
           <div className="chart-title" style={{ fontSize: 12, opacity: 0.7, marginTop: 8 }}>
-            AlphaSeek backtest (walk-forward, after 5bps cost), monthly. Live tracking since 2026-02.
+            AlphaSeek backtest (walk-forward, after 5bps cost). Live tracking since 2026-02.
           </div>
         </>
       ) : <div className="state">Pick a wider window.</div>}

@@ -1,32 +1,8 @@
 {
   "items": [
     {
-      "category": "Monthly signals",
-      "label": "2026-02",
-      "block": 953383,
-      "url": "https://mempool.space/block/953383"
-    },
-    {
-      "category": "Monthly signals",
-      "label": "2026-03",
-      "block": 953383,
-      "url": "https://mempool.space/block/953383"
-    },
-    {
-      "category": "Monthly signals",
-      "label": "2026-04",
-      "block": 953383,
-      "url": "https://mempool.space/block/953383"
-    },
-    {
-      "category": "Monthly signals",
-      "label": "2026-05",
-      "block": 953383,
-      "url": "https://mempool.space/block/953383"
-    },
-    {
-      "category": "Monthly signals",
-      "label": "2026-06",
+      "category": "Strategy signals",
+      "label": "Pre-committed & timestamped",
       "block": 953383,
       "url": "https://mempool.space/block/953383"
     },
@@ -49,5 +25,5 @@
       "url": "https://mempool.space/block/953384"
     }
   ],
-  "count": 8
+  "count": 4
 }

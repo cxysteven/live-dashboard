@@ -11,7 +11,7 @@ export default function OnChainProof() {
   }, []);
   if (!proof || !proof.items?.length) return null;
 
-  const cats = ["Monthly signals", "Evidence index"];
+  const cats = ["Strategy signals", "Evidence index"];
   const byCat = (c) => proof.items.filter((i) => i.category === c);
 
   return (
@@ -41,7 +41,7 @@ export default function OnChainProof() {
       </div>
       <div style={{ fontSize: 11.5, opacity: 0.6, marginTop: 10 }}>
         Verify yourself: <code>ots verify &lt;file&gt;.ots</code>, or open any block on mempool.space and read its timestamp.
-        2026-02→06 were batch-anchored 2026-06-12 (block 953,383); from 2026-07 each signal is anchored <b>before</b> the trade.
+        Each signal is hashed onto Bitcoin <b>before</b> it's acted on — immutable, and you verify the chain, not us.
       </div>
     </div>
   );
