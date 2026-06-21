@@ -6,6 +6,7 @@
       "date": "2026-02-10",
       "nav_index": 100.0,
       "qqq_index": 100.0,
+      "model_index": 100.0,
       "voo_index": 100.0,
       "mag7_index": 100.0
     },
@@ -97,6 +98,7 @@
       "date": "2026-02-27",
       "nav_index": 101.4142,
       "qqq_index": 99.3164,
+      "model_index": 100.8014,
       "voo_index": 99.1515,
       "mag7_index": 96.4926
     },
@@ -251,6 +253,7 @@
       "date": "2026-03-31",
       "nav_index": 94.3487,
       "qqq_index": 94.5112,
+      "model_index": 95.6461,
       "voo_index": 94.1858,
       "mag7_index": 91.1293
     },
@@ -405,6 +408,7 @@
       "date": "2026-04-30",
       "nav_index": 112.8783,
       "qqq_index": 109.3401,
+      "model_index": 119.4031,
       "voo_index": 104.1206,
       "mag7_index": 104.1837
     },
@@ -552,6 +556,7 @@
       "date": "2026-05-29",
       "nav_index": 136.636,
       "qqq_index": 120.8957,
+      "model_index": 147.8735,
       "voo_index": 109.6231,
       "mag7_index": 111.2142
     },
@@ -662,6 +667,8 @@
     "sharpe_annualized": 3.06,
     "win_days_pct": 56.52,
     "voo_return_pct": 8.46,
-    "mag7_return_pct": 2.925
+    "mag7_return_pct": 2.925,
+    "model_return_pct": 47.874,
+    "model_through": "2026-05-29"
   }
 }
