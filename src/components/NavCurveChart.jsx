@@ -7,7 +7,6 @@ import { fmtPct } from "../lib/format";
 
 const LINES = [
   { key: "nav_index",   name: "AlphaSeek (Live)",  color: "var(--accent-as)",    width: 2.6, dash: null,  z: 5 },
-  { key: "model_index", name: "AlphaSeek (Model)", color: "var(--accent-kospi)", width: 2.0, dash: "7 4", z: 4, connect: true },
   { key: "qqq_index",   name: "QQQ",               color: "var(--accent-qqq)",   width: 1.6, dash: "4 3", z: 3 },
   { key: "voo_index",   name: "VOO",               color: "var(--accent-voo)",   width: 1.4, dash: "4 3", z: 2 },
   { key: "mag7_index",  name: "Mag7 ETF",          color: "var(--accent-mag7)",  width: 1.6, dash: "2 2", z: 2 },
