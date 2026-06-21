@@ -4,6 +4,7 @@ import BacktestLiveChart from "./components/BacktestLiveChart";
 import StatsRow from "./components/StatsRow";
 import ThemeRotation from "./components/ThemeRotation";
 import TrackRecord from "./components/TrackRecord";
+import RollingBeatRate from "./components/RollingBeatRate";
 import OnChainProof from "./components/OnChainProof";
 import "./App.css";
 
@@ -56,7 +57,10 @@ export default function App() {
           <OnChainProof />
         </>
       ) : (
-        <TrackRecord />
+        <>
+          <RollingBeatRate />
+          <TrackRecord />
+        </>
       )}
     </div>
   );
