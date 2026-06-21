@@ -47,37 +47,7 @@
       "label": "Signal manifest",
       "block": 953384,
       "url": "https://mempool.space/block/953384"
-    },
-    {
-      "category": "Model & data",
-      "label": "Index membership",
-      "block": 954410,
-      "url": "https://mempool.space/block/954410"
-    },
-    {
-      "category": "Model & data",
-      "label": "Model code (frozen)",
-      "block": 954408,
-      "url": "https://mempool.space/block/954408"
-    },
-    {
-      "category": "Model & data",
-      "label": "Monthly increment",
-      "block": 954410,
-      "url": "https://mempool.space/block/954410"
-    },
-    {
-      "category": "Model & data",
-      "label": "Run config",
-      "block": 954403,
-      "url": "https://mempool.space/block/954403"
-    },
-    {
-      "category": "Model & data",
-      "label": "Training dataset (1999\u2013)",
-      "block": 954402,
-      "url": "https://mempool.space/block/954402"
     }
   ],
-  "count": 13
+  "count": 8
 }

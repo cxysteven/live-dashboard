@@ -11,7 +11,7 @@ export default function OnChainProof() {
   }, []);
   if (!proof || !proof.items?.length) return null;
 
-  const cats = ["Monthly signals", "Evidence index", "Model & data"];
+  const cats = ["Monthly signals", "Evidence index"];
   const byCat = (c) => proof.items.filter((i) => i.category === c);
 
   return (

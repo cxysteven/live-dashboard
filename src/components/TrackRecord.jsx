@@ -5,7 +5,7 @@ import {
 } from "recharts";
 import { fmtPct, fmtPp, fmtNum, signColor } from "../lib/format";
 
-// Production V3 backtest (canonical: +2244% / CAGR 29.4% over 2014-2026, ground truth) vs QQQ.
+// AlphaSeek backtest (canonical: +2244% / CAGR 29.4% over 2014-2026, ground truth) vs QQQ.
 // Pick any trailing window or custom range to inspect the track record.
 const PRESETS = [
   { label: "1Y", months: 12 },
@@ -144,7 +144,7 @@ export default function TrackRecord() {
             </ResponsiveContainer>
           </div>
           <div className="chart-title" style={{ fontSize: 12, opacity: 0.7, marginTop: 8 }}>
-            Production V3 backtest (walk-forward, after 5bps cost), monthly. Live tracking since 2026-02.
+            AlphaSeek backtest (walk-forward, after 5bps cost), monthly. Live tracking since 2026-02.
           </div>
         </>
       ) : <div className="state">Pick a wider window.</div>}
