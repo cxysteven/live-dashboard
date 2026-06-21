@@ -3,11 +3,13 @@ import NavCurveChart from "./components/NavCurveChart";
 import BacktestLiveChart from "./components/BacktestLiveChart";
 import StatsRow from "./components/StatsRow";
 import ThemeRotation from "./components/ThemeRotation";
+import TrackRecord from "./components/TrackRecord";
 import "./App.css";
 
 export default function App() {
   const [data, setData] = useState(null);
   const [err, setErr] = useState(null);
+  const [view, setView] = useState("live");   // "live" | "track"
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data.json`, { cache: "no-store" })
@@ -35,15 +37,25 @@ export default function App() {
         </div>
       </header>
 
-      <StatsRow stats={stats} />
+      <div className="legend-row" style={{ marginBottom: 14 }}>
+        <button type="button" className={`legend-item${view === "live" ? "" : " legend-off"}`}
+          onClick={() => setView("live")}><span className="legend-label">● Live (2026)</span></button>
+        <button type="button" className={`legend-item${view === "track" ? "" : " legend-off"}`}
+          onClick={() => setView("track")}><span className="legend-label">Track Record (2014–)</span></button>
+      </div>
 
-      <NavCurveChart series={series} />
-
-      {data.combined ? (
-        <BacktestLiveChart combined={data.combined} meta={data.combined_span} />
-      ) : null}
-
-      <ThemeRotation />
+      {view === "live" ? (
+        <>
+          <StatsRow stats={stats} />
+          <NavCurveChart series={series} />
+          {data.combined ? (
+            <BacktestLiveChart combined={data.combined} meta={data.combined_span} />
+          ) : null}
+          <ThemeRotation />
+        </>
+      ) : (
+        <TrackRecord />
+      )}
     </div>
   );
 }

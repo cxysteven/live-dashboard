@@ -283,3 +283,14 @@ html, body, #root {
 }
 .legend-off { opacity: 0.4; }
 .legend-off .legend-label { text-decoration: line-through; }
+
+/* Track Record custom-range selects */
+.tr-select {
+  background: var(--bg-card, #161b22);
+  color: var(--fg, #e6edf3);
+  border: 1px solid var(--grid, #30363d);
+  border-radius: 6px;
+  padding: 4px 8px;
+  font-size: 13px;
+  margin-right: 6px;
+}
