@@ -59,7 +59,20 @@ html, body, #root {
   margin-bottom: 4px;
   letter-spacing: 0.02em;
 }
-.hdr-sub { color: var(--fg-muted); font-size: 13px; }
+.hdr-desc {
+  max-width: 640px;
+  margin: 8px 0 0;
+  font-size: 13.5px;
+  line-height: 1.55;
+  color: var(--fg);
+  opacity: 0.92;
+}
+.hdr-desc-cn {
+  margin-top: 3px;
+  font-size: 13px;
+  color: var(--fg-muted);
+}
+.hdr-sub { color: var(--fg-muted); font-size: 13px; margin-top: 10px; }
 .badge {
   display: inline-block;
   margin-left: 8px;

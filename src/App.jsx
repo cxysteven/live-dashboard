@@ -33,6 +33,13 @@ export default function App() {
       <header className="hdr">
         <h1>AlphaSeek</h1>
         <div className="hdr-tagline">Hunting alpha, one tick at a time.</div>
+        <p className="hdr-desc">
+          A systematic, quantitative US-equity strategy. Positions are dynamically rotated by an
+          AI (machine-learning) model from its signals — no discretionary stock-picking.
+        </p>
+        <p className="hdr-desc hdr-desc-cn">
+          系统化美股量化策略,持仓由 AI(机器学习)模型根据信号动态调整,不含主观人工选股。
+        </p>
         <div className="hdr-sub">
           {live_start_date} → {as_of} &nbsp;·&nbsp; {stats.days_live} trading days
           {data._sample ? <span className="badge"> sample data</span> : null}
