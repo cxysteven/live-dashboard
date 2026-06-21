@@ -41,7 +41,8 @@ export default function OnChainProof() {
       </div>
       <div style={{ fontSize: 11.5, opacity: 0.6, marginTop: 10 }}>
         Verify yourself: <code>ots verify &lt;file&gt;.ots</code>, or open any block on mempool.space and read its timestamp.
-        Each signal is hashed onto Bitcoin <b>before</b> it's acted on — immutable, and you verify the chain, not us.
+        <br />Two clocks: <b>live since 2026-02</b> (every fill verifiable against broker statements) · signals are
+        hashed onto Bitcoin and immutable, and <b>from 2026-07</b> each is anchored <b>before</b> the trade. You verify the chain — and the broker.
       </div>
     </div>
   );
