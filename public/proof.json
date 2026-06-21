@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "category": "Monthly signals",
+      "label": "2026-02",
+      "block": 953383,
+      "url": "https://mempool.space/block/953383"
+    },
+    {
+      "category": "Monthly signals",
+      "label": "2026-03",
+      "block": 953383,
+      "url": "https://mempool.space/block/953383"
+    },
+    {
+      "category": "Monthly signals",
+      "label": "2026-04",
+      "block": 953383,
+      "url": "https://mempool.space/block/953383"
+    },
+    {
+      "category": "Monthly signals",
+      "label": "2026-05",
+      "block": 953383,
+      "url": "https://mempool.space/block/953383"
+    },
+    {
+      "category": "Monthly signals",
+      "label": "2026-06",
+      "block": 953383,
+      "url": "https://mempool.space/block/953383"
+    },
+    {
+      "category": "Evidence index",
+      "label": "Data manifest",
+      "block": 953393,
+      "url": "https://mempool.space/block/953393"
+    },
+    {
+      "category": "Evidence index",
+      "label": "Methodology note",
+      "block": 953423,
+      "url": "https://mempool.space/block/953423"
+    },
+    {
+      "category": "Evidence index",
+      "label": "Signal manifest",
+      "block": 953384,
+      "url": "https://mempool.space/block/953384"
+    },
+    {
+      "category": "Model & data",
+      "label": "Index membership",
+      "block": 954410,
+      "url": "https://mempool.space/block/954410"
+    },
+    {
+      "category": "Model & data",
+      "label": "Model code (frozen)",
+      "block": 954408,
+      "url": "https://mempool.space/block/954408"
+    },
+    {
+      "category": "Model & data",
+      "label": "Monthly increment",
+      "block": 954410,
+      "url": "https://mempool.space/block/954410"
+    },
+    {
+      "category": "Model & data",
+      "label": "Run config",
+      "block": 954403,
+      "url": "https://mempool.space/block/954403"
+    },
+    {
+      "category": "Model & data",
+      "label": "Training dataset (1999\u2013)",
+      "block": 954402,
+      "url": "https://mempool.space/block/954402"
+    }
+  ],
+  "count": 13
+}

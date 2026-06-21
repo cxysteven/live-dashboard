@@ -4,6 +4,7 @@ import BacktestLiveChart from "./components/BacktestLiveChart";
 import StatsRow from "./components/StatsRow";
 import ThemeRotation from "./components/ThemeRotation";
 import TrackRecord from "./components/TrackRecord";
+import OnChainProof from "./components/OnChainProof";
 import "./App.css";
 
 export default function App() {
@@ -52,6 +53,7 @@ export default function App() {
             <BacktestLiveChart combined={data.combined} meta={data.combined_span} />
           ) : null}
           <ThemeRotation />
+          <OnChainProof />
         </>
       ) : (
         <TrackRecord />

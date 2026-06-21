@@ -294,3 +294,7 @@ html, body, #root {
   font-size: 13px;
   margin-right: 6px;
 }
+
+/* On-chain proof rows */
+.proof-row:hover { background: var(--grid, #21262d); }
+.proof-row span:last-child { white-space: nowrap; }
