@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-16",
+  "as_of": "2026-07-29",
   "live_start_date": "2026-02-10",
   "series": [
     {
@@ -12,84 +12,91 @@
     },
     {
       "date": "2026-02-11",
-      "nav_index": 103.3315,
+      "nav_index": 103.3316,
       "qqq_index": 100.2682,
       "voo_index": 99.9859,
       "mag7_index": 99.3866
     },
     {
       "date": "2026-02-12",
-      "nav_index": 99.7506,
+      "nav_index": 99.6535,
       "qqq_index": 98.2289,
       "voo_index": 98.4366,
       "mag7_index": 97.0903
     },
     {
       "date": "2026-02-13",
-      "nav_index": 101.0938,
+      "nav_index": 100.9954,
+      "qqq_index": 98.4382,
+      "voo_index": 98.4995,
+      "mag7_index": 96.178
+    },
+    {
+      "date": "2026-02-16",
+      "nav_index": 100.9954,
       "qqq_index": 98.4382,
       "voo_index": 98.4995,
       "mag7_index": 96.178
     },
     {
       "date": "2026-02-17",
-      "nav_index": 101.4309,
+      "nav_index": 101.3322,
       "qqq_index": 98.3368,
       "voo_index": 98.6723,
       "mag7_index": 96.3668
     },
     {
       "date": "2026-02-18",
-      "nav_index": 103.4072,
+      "nav_index": 103.3066,
       "qqq_index": 99.0711,
       "voo_index": 99.1688,
       "mag7_index": 97.0274
     },
     {
       "date": "2026-02-19",
-      "nav_index": 102.1562,
+      "nav_index": 102.0568,
       "qqq_index": 98.6917,
       "voo_index": 98.9143,
       "mag7_index": 96.8701
     },
     {
       "date": "2026-02-20",
-      "nav_index": 103.814,
+      "nav_index": 103.713,
       "qqq_index": 99.565,
       "voo_index": 99.6198,
       "mag7_index": 98.4586
     },
     {
       "date": "2026-02-23",
-      "nav_index": 103.4922,
+      "nav_index": 103.3915,
       "qqq_index": 98.3548,
       "voo_index": 98.6157,
       "mag7_index": 96.8858
     },
     {
       "date": "2026-02-24",
-      "nav_index": 103.3989,
+      "nav_index": 103.2983,
       "qqq_index": 99.4113,
       "voo_index": 99.3354,
       "mag7_index": 98.0025
     },
     {
       "date": "2026-02-25",
-      "nav_index": 105.5527,
+      "nav_index": 105.45,
       "qqq_index": 100.852,
       "voo_index": 100.1713,
       "mag7_index": 99.5124
     },
     {
       "date": "2026-02-26",
-      "nav_index": 102.6506,
+      "nav_index": 102.5507,
       "qqq_index": 99.6353,
       "voo_index": 99.6088,
       "mag7_index": 97.9396
     },
     {
       "date": "2026-02-27",
-      "nav_index": 101.5129,
+      "nav_index": 101.4142,
       "qqq_index": 99.3164,
       "model_index": 100.8014,
       "voo_index": 99.1515,
@@ -97,154 +104,154 @@
     },
     {
       "date": "2026-03-02",
-      "nav_index": 100.5498,
+      "nav_index": 100.3992,
       "qqq_index": 99.4472,
       "voo_index": 99.1892,
       "mag7_index": 96.9015
     },
     {
       "date": "2026-03-03",
-      "nav_index": 98.8505,
+      "nav_index": 98.7024,
       "qqq_index": 98.3826,
       "voo_index": 98.3156,
       "mag7_index": 96.3982
     },
     {
       "date": "2026-03-04",
-      "nav_index": 99.3582,
+      "nav_index": 99.2094,
       "qqq_index": 99.8823,
       "voo_index": 99.0164,
       "mag7_index": 97.8767
     },
     {
       "date": "2026-03-05",
-      "nav_index": 97.7126,
+      "nav_index": 97.5662,
       "qqq_index": 99.5813,
       "voo_index": 98.4869,
       "mag7_index": 97.7666
     },
     {
       "date": "2026-03-06",
-      "nav_index": 96.1084,
+      "nav_index": 95.9644,
       "qqq_index": 98.0833,
       "voo_index": 97.1702,
       "mag7_index": 95.9264
     },
     {
       "date": "2026-03-09",
-      "nav_index": 96.9081,
+      "nav_index": 96.7629,
       "qqq_index": 99.3933,
       "voo_index": 98.014,
       "mag7_index": 97.0746
     },
     {
       "date": "2026-03-10",
-      "nav_index": 97.341,
+      "nav_index": 97.1952,
       "qqq_index": 99.3949,
       "voo_index": 97.8443,
       "mag7_index": 97.4048
     },
     {
       "date": "2026-03-11",
-      "nav_index": 97.2515,
+      "nav_index": 97.1058,
       "qqq_index": 99.3818,
       "voo_index": 97.7358,
       "mag7_index": 97.7509
     },
     {
       "date": "2026-03-12",
-      "nav_index": 95.5882,
+      "nav_index": 95.445,
       "qqq_index": 97.6761,
       "voo_index": 96.2385,
       "mag7_index": 95.8635
     },
     {
       "date": "2026-03-13",
-      "nav_index": 95.2982,
+      "nav_index": 95.1554,
       "qqq_index": 97.0972,
       "voo_index": 95.7027,
       "mag7_index": 94.2749
     },
     {
       "date": "2026-03-16",
-      "nav_index": 96.1323,
+      "nav_index": 95.9883,
       "qqq_index": 98.1863,
       "voo_index": 96.6611,
       "mag7_index": 95.7534
     },
     {
       "date": "2026-03-17",
-      "nav_index": 96.5835,
+      "nav_index": 96.4388,
       "qqq_index": 98.6655,
       "voo_index": 96.9282,
       "mag7_index": 96.1466
     },
     {
       "date": "2026-03-18",
-      "nav_index": 95.3184,
+      "nav_index": 95.1756,
       "qqq_index": 97.2901,
       "voo_index": 95.5911,
       "mag7_index": 94.6839
     },
     {
       "date": "2026-03-19",
-      "nav_index": 95.5222,
+      "nav_index": 95.3791,
       "qqq_index": 96.9827,
       "voo_index": 95.335,
       "mag7_index": 93.6615
     },
     {
       "date": "2026-03-20",
-      "nav_index": 94.5549,
+      "nav_index": 94.4132,
       "qqq_index": 95.1903,
       "voo_index": 93.9507,
       "mag7_index": 91.8056
     },
     {
       "date": "2026-03-23",
-      "nav_index": 95.4901,
+      "nav_index": 95.3471,
       "qqq_index": 96.1617,
       "voo_index": 94.9705,
       "mag7_index": 93.2369
     },
     {
       "date": "2026-03-24",
-      "nav_index": 96.4741,
+      "nav_index": 96.3287,
       "qqq_index": 95.5043,
       "voo_index": 94.6484,
       "mag7_index": 92.0258
     },
     {
       "date": "2026-03-25",
-      "nav_index": 96.45,
+      "nav_index": 96.3047,
       "qqq_index": 96.1323,
       "voo_index": 95.1637,
       "mag7_index": 92.7178
     },
     {
       "date": "2026-03-26",
-      "nav_index": 94.0292,
+      "nav_index": 93.8875,
       "qqq_index": 93.8378,
       "voo_index": 93.4762,
       "mag7_index": 89.698
     },
     {
       "date": "2026-03-27",
-      "nav_index": 93.2718,
+      "nav_index": 93.1312,
       "qqq_index": 92.0045,
       "voo_index": 91.597,
       "mag7_index": 87.213
     },
     {
       "date": "2026-03-30",
-      "nav_index": 92.0418,
+      "nav_index": 91.9031,
       "qqq_index": 91.3013,
       "voo_index": 91.278,
       "mag7_index": 87.1186
     },
     {
       "date": "2026-03-31",
-      "nav_index": 94.4911,
+      "nav_index": 94.3487,
       "qqq_index": 94.3922,
       "model_index": 95.6461,
       "voo_index": 93.8894,
@@ -252,147 +259,154 @@
     },
     {
       "date": "2026-04-01",
-      "nav_index": 94.8951,
+      "nav_index": 94.7374,
       "qqq_index": 95.5582,
       "voo_index": 94.6358,
       "mag7_index": 92.2932
     },
     {
       "date": "2026-04-02",
-      "nav_index": 94.5704,
+      "nav_index": 94.4126,
+      "qqq_index": 95.6678,
+      "voo_index": 94.7442,
+      "mag7_index": 91.6483
+    },
+    {
+      "date": "2026-04-03",
+      "nav_index": 94.4126,
       "qqq_index": 95.6678,
       "voo_index": 94.7442,
       "mag7_index": 91.6483
     },
     {
       "date": "2026-04-06",
-      "nav_index": 94.9863,
+      "nav_index": 94.8278,
       "qqq_index": 96.2435,
       "voo_index": 95.1653,
       "mag7_index": 91.8213
     },
     {
       "date": "2026-04-07",
-      "nav_index": 95.2629,
+      "nav_index": 95.1039,
       "qqq_index": 96.2582,
       "voo_index": 95.2234,
       "mag7_index": 91.6798
     },
     {
       "date": "2026-04-08",
-      "nav_index": 97.3101,
+      "nav_index": 97.1477,
       "qqq_index": 99.1202,
       "voo_index": 97.6274,
       "mag7_index": 94.0862
     },
     {
       "date": "2026-04-09",
-      "nav_index": 97.7842,
+      "nav_index": 97.6211,
       "qqq_index": 99.7907,
       "voo_index": 98.2056,
       "mag7_index": 95.5017
     },
     {
       "date": "2026-04-10",
-      "nav_index": 98.8234,
+      "nav_index": 98.6585,
       "qqq_index": 99.9346,
       "voo_index": 98.1396,
       "mag7_index": 96.1623
     },
     {
       "date": "2026-04-13",
-      "nav_index": 100.5135,
+      "nav_index": 100.3458,
       "qqq_index": 100.9682,
       "voo_index": 99.1012,
       "mag7_index": 97.1375
     },
     {
       "date": "2026-04-14",
-      "nav_index": 103.0962,
+      "nav_index": 102.9242,
       "qqq_index": 102.8014,
       "voo_index": 100.3001,
       "mag7_index": 100.0472
     },
     {
       "date": "2026-04-15",
-      "nav_index": 105.8323,
+      "nav_index": 105.6557,
       "qqq_index": 104.2406,
       "voo_index": 101.1014,
       "mag7_index": 102.6423
     },
     {
       "date": "2026-04-16",
-      "nav_index": 105.9044,
+      "nav_index": 105.7277,
       "qqq_index": 104.7427,
       "voo_index": 101.323,
       "mag7_index": 102.721
     },
     {
       "date": "2026-04-17",
-      "nav_index": 108.0754,
+      "nav_index": 107.8951,
       "qqq_index": 106.1131,
       "voo_index": 102.5674,
       "mag7_index": 104.514
     },
     {
       "date": "2026-04-20",
-      "nav_index": 108.1217,
+      "nav_index": 107.9413,
       "qqq_index": 105.7762,
       "voo_index": 102.3726,
       "mag7_index": 103.4288
     },
     {
       "date": "2026-04-21",
-      "nav_index": 107.6513,
+      "nav_index": 107.4717,
       "qqq_index": 105.3739,
       "voo_index": 101.6985,
       "mag7_index": 102.721
     },
     {
       "date": "2026-04-22",
-      "nav_index": 111.4559,
+      "nav_index": 111.2699,
       "qqq_index": 107.1369,
       "voo_index": 102.7434,
       "mag7_index": 104.4983
     },
     {
       "date": "2026-04-23",
-      "nav_index": 110.4471,
+      "nav_index": 110.2628,
       "qqq_index": 106.5334,
       "voo_index": 102.3286,
       "mag7_index": 102.7524
     },
     {
       "date": "2026-04-24",
-      "nav_index": 112.8737,
+      "nav_index": 112.6854,
       "qqq_index": 108.5712,
       "voo_index": 103.1393,
       "mag7_index": 104.7027
     },
     {
       "date": "2026-04-27",
-      "nav_index": 112.7266,
+      "nav_index": 112.5385,
       "qqq_index": 108.6284,
       "voo_index": 103.309,
       "mag7_index": 105.5049
     },
     {
       "date": "2026-04-28",
-      "nav_index": 110.8937,
+      "nav_index": 110.7087,
       "qqq_index": 107.5359,
       "voo_index": 102.8,
       "mag7_index": 105.1589
     },
     {
       "date": "2026-04-29",
-      "nav_index": 110.9211,
+      "nav_index": 110.736,
       "qqq_index": 108.1934,
       "voo_index": 102.7968,
       "mag7_index": 104.7185
     },
     {
       "date": "2026-04-30",
-      "nav_index": 113.0669,
+      "nav_index": 112.8783,
       "qqq_index": 109.2024,
       "model_index": 119.4031,
       "voo_index": 103.793,
@@ -400,140 +414,147 @@
     },
     {
       "date": "2026-05-01",
-      "nav_index": 115.1625,
+      "nav_index": 114.9585,
       "qqq_index": 110.2507,
       "voo_index": 104.0978,
       "mag7_index": 105.1746
     },
     {
       "date": "2026-05-04",
-      "nav_index": 114.5386,
+      "nav_index": 114.3357,
       "qqq_index": 110.043,
       "voo_index": 103.7207,
       "mag7_index": 105.3319
     },
     {
       "date": "2026-05-05",
-      "nav_index": 117.7982,
+      "nav_index": 117.5895,
       "qqq_index": 111.4707,
       "voo_index": 104.5346,
       "mag7_index": 105.5521
     },
     {
       "date": "2026-05-06",
-      "nav_index": 123.0641,
+      "nav_index": 122.8461,
       "qqq_index": 113.7865,
       "voo_index": 106.0053,
       "mag7_index": 107.6754
     },
     {
       "date": "2026-05-07",
-      "nav_index": 120.0774,
+      "nav_index": 119.8646,
       "qqq_index": 113.6507,
       "voo_index": 105.6722,
       "mag7_index": 108.3517
     },
     {
       "date": "2026-05-08",
-      "nav_index": 125.4709,
+      "nav_index": 125.2486,
       "qqq_index": 116.3148,
       "voo_index": 106.5364,
       "mag7_index": 109.4998
     },
     {
       "date": "2026-05-11",
-      "nav_index": 126.5971,
+      "nav_index": 126.3728,
       "qqq_index": 116.6517,
       "voo_index": 106.7689,
       "mag7_index": 109.2167
     },
     {
       "date": "2026-05-12",
-      "nav_index": 124.0915,
+      "nav_index": 123.8716,
       "qqq_index": 115.6623,
       "voo_index": 106.6353,
       "mag7_index": 108.7134
     },
     {
       "date": "2026-05-13",
-      "nav_index": 127.553,
+      "nav_index": 127.327,
       "qqq_index": 116.8839,
       "voo_index": 107.223,
       "mag7_index": 110.9311
     },
     {
       "date": "2026-05-14",
-      "nav_index": 128.6265,
+      "nav_index": 128.3986,
       "qqq_index": 117.7147,
       "voo_index": 108.0589,
       "mag7_index": 111.576
     },
     {
       "date": "2026-05-15",
-      "nav_index": 123.8341,
+      "nav_index": 123.6147,
       "qqq_index": 115.9386,
       "voo_index": 106.7563,
       "mag7_index": 109.8459
     },
     {
       "date": "2026-05-18",
-      "nav_index": 122.4603,
+      "nav_index": 122.2434,
       "qqq_index": 115.4398,
       "voo_index": 106.6731,
       "mag7_index": 109.2482
     },
     {
       "date": "2026-05-19",
-      "nav_index": 122.3699,
+      "nav_index": 122.1531,
       "qqq_index": 114.7285,
       "voo_index": 105.9943,
       "mag7_index": 107.7855
     },
     {
       "date": "2026-05-20",
-      "nav_index": 127.0186,
+      "nav_index": 126.7936,
       "qqq_index": 116.6288,
       "voo_index": 107.091,
       "mag7_index": 109.2954
     },
     {
       "date": "2026-05-21",
-      "nav_index": 128.8901,
+      "nav_index": 128.6618,
       "qqq_index": 116.8512,
       "voo_index": 107.2906,
       "mag7_index": 109.3111
     },
     {
       "date": "2026-05-22",
-      "nav_index": 129.6124,
+      "nav_index": 129.3827,
+      "qqq_index": 117.3467,
+      "voo_index": 107.7164,
+      "mag7_index": 109.0909
+    },
+    {
+      "date": "2026-05-25",
+      "nav_index": 129.3827,
       "qqq_index": 117.3467,
       "voo_index": 107.7164,
       "mag7_index": 109.0909
     },
     {
       "date": "2026-05-26",
-      "nav_index": 135.2536,
+      "nav_index": 135.014,
       "qqq_index": 119.4302,
       "voo_index": 108.4171,
       "mag7_index": 109.5156
     },
     {
       "date": "2026-05-27",
-      "nav_index": 134.1898,
+      "nav_index": 133.9521,
       "qqq_index": 119.2945,
       "voo_index": 108.4093,
       "mag7_index": 110.6165
     },
     {
       "date": "2026-05-28",
-      "nav_index": 136.5694,
+      "nav_index": 136.3275,
       "qqq_index": 120.3003,
       "voo_index": 109.0299,
       "mag7_index": 111.4659
     },
     {
       "date": "2026-05-29",
-      "nav_index": 136.8785,
+      "nav_index": 136.636,
       "qqq_index": 120.7435,
       "model_index": 147.8735,
       "voo_index": 109.2782,
@@ -541,238 +562,315 @@
     },
     {
       "date": "2026-06-01",
-      "nav_index": 143.7954,
+      "nav_index": 143.5325,
       "qqq_index": 121.4679,
       "voo_index": 109.5626,
       "mag7_index": 109.8773
     },
     {
       "date": "2026-06-02",
-      "nav_index": 148.557,
+      "nav_index": 148.2854,
       "qqq_index": 122.0272,
       "voo_index": 109.7134,
       "mag7_index": 108.7921
     },
     {
       "date": "2026-06-03",
-      "nav_index": 148.2443,
+      "nav_index": 147.9733,
       "qqq_index": 121.7084,
       "voo_index": 108.9435,
       "mag7_index": 107.6125
     },
     {
       "date": "2026-06-04",
-      "nav_index": 146.0774,
+      "nav_index": 145.8103,
       "qqq_index": 121.1196,
       "voo_index": 109.3677,
       "mag7_index": 108.7134
     },
     {
       "date": "2026-06-05",
-      "nav_index": 133.0585,
+      "nav_index": 132.8153,
       "qqq_index": 115.3057,
       "voo_index": 106.5301,
       "mag7_index": 104.6084
     },
     {
       "date": "2026-06-08",
-      "nav_index": 136.3929,
+      "nav_index": 136.1436,
       "qqq_index": 117.1063,
       "voo_index": 106.794,
       "mag7_index": 104.6398
     },
     {
       "date": "2026-06-09",
-      "nav_index": 131.453,
+      "nav_index": 131.2125,
       "qqq_index": 115.7588,
       "voo_index": 106.4829,
       "mag7_index": 103.2715
     },
     {
       "date": "2026-06-10",
-      "nav_index": 128.4798,
+      "nav_index": 128.245,
       "qqq_index": 113.4463,
       "voo_index": 104.8096,
       "mag7_index": 101.0066
     },
     {
       "date": "2026-06-11",
-      "nav_index": 138.1357,
+      "nav_index": 137.8832,
       "qqq_index": 117.278,
       "voo_index": 106.5662,
       "mag7_index": 102.0919
     },
     {
       "date": "2026-06-12",
-      "nav_index": 140.4654,
+      "nav_index": 140.2087,
       "qqq_index": 117.9682,
       "voo_index": 107.1507,
       "mag7_index": 102.0919
     },
     {
       "date": "2026-06-15",
-      "nav_index": 147.2036,
+      "nav_index": 146.9345,
       "qqq_index": 121.674,
       "voo_index": 109.0173,
       "mag7_index": 104.7814
     },
     {
       "date": "2026-06-16",
-      "nav_index": 140.6834,
+      "nav_index": 140.4263,
       "qqq_index": 119.3615,
       "voo_index": 108.3763,
       "mag7_index": 104.4668
     },
     {
       "date": "2026-06-17",
-      "nav_index": 142.3556,
+      "nav_index": 142.0954,
       "qqq_index": 118.1595,
       "voo_index": 107.0659,
       "mag7_index": 101.5099
     },
     {
       "date": "2026-06-18",
-      "nav_index": 148.1128,
+      "nav_index": 147.8421,
+      "qqq_index": 121.1212,
+      "voo_index": 108.1186,
+      "mag7_index": 102.9254
+    },
+    {
+      "date": "2026-06-19",
+      "nav_index": 147.8421,
       "qqq_index": 121.1212,
       "voo_index": 108.1186,
       "mag7_index": 102.9254
     },
     {
       "date": "2026-06-22",
-      "nav_index": 148.3377,
+      "nav_index": 148.0665,
       "qqq_index": 120.6846,
       "voo_index": 107.8028,
       "mag7_index": 100.692
     },
     {
       "date": "2026-06-23",
-      "nav_index": 141.7925,
+      "nav_index": 141.533,
       "qqq_index": 116.7106,
       "voo_index": 106.2693,
       "mag7_index": 99.308
     },
     {
       "date": "2026-06-24",
-      "nav_index": 140.1466,
+      "nav_index": 139.8905,
       "qqq_index": 116.215,
       "voo_index": 106.1671,
       "mag7_index": 98.5845
     },
     {
       "date": "2026-06-25",
-      "nav_index": 143.9563,
+      "nav_index": 143.6932,
       "qqq_index": 117.157,
       "voo_index": 106.1703,
       "mag7_index": 96.0522
     },
     {
       "date": "2026-06-26",
-      "nav_index": 142.6368,
+      "nav_index": 142.376,
       "qqq_index": 115.5445,
       "voo_index": 105.3139,
       "mag7_index": 96.8858
     },
     {
       "date": "2026-06-29",
-      "nav_index": 148.353,
+      "nav_index": 148.0818,
       "qqq_index": 118.4163,
       "voo_index": 107.003,
       "mag7_index": 99.9056
     },
     {
       "date": "2026-06-30",
-      "nav_index": 153.0387,
+      "nav_index": 152.7589,
       "qqq_index": 120.4311,
       "voo_index": 107.9143,
       "mag7_index": 101.1324
     },
     {
       "date": "2026-07-01",
-      "nav_index": 145.4971,
+      "nav_index": 145.2266,
       "qqq_index": 118.5945,
       "voo_index": 107.7022,
       "mag7_index": 103.5546
     },
     {
       "date": "2026-07-02",
-      "nav_index": 136.5316,
+      "nav_index": 136.2778,
+      "qqq_index": 116.5388,
+      "voo_index": 107.6048,
+      "mag7_index": 102.3907
+    },
+    {
+      "date": "2026-07-03",
+      "nav_index": 136.2778,
       "qqq_index": 116.5388,
       "voo_index": 107.6048,
       "mag7_index": 102.3907
     },
     {
       "date": "2026-07-06",
-      "nav_index": 138.8283,
+      "nav_index": 138.5703,
       "qqq_index": 118.2102,
       "voo_index": 108.513,
       "mag7_index": 104.2466
     },
     {
       "date": "2026-07-07",
-      "nav_index": 129.9907,
+      "nav_index": 129.7491,
       "qqq_index": 116.0204,
       "voo_index": 107.9568,
       "mag7_index": 104.1837
     },
     {
       "date": "2026-07-08",
-      "nav_index": 130.2072,
+      "nav_index": 129.9651,
       "qqq_index": 116.3491,
       "voo_index": 107.6708,
       "mag7_index": 103.4759
     },
     {
       "date": "2026-07-09",
-      "nav_index": 136.1672,
+      "nav_index": 135.9141,
       "qqq_index": 118.2855,
       "voo_index": 108.524,
       "mag7_index": 105.0016
     },
     {
       "date": "2026-07-10",
-      "nav_index": 135.0963,
+      "nav_index": 134.8452,
       "qqq_index": 118.6501,
       "voo_index": 109.0221,
       "mag7_index": 106.4486
     },
     {
       "date": "2026-07-13",
-      "nav_index": 129.5608,
+      "nav_index": 129.32,
       "qqq_index": 116.3982,
       "voo_index": 108.1799,
       "mag7_index": 105.3633
     },
     {
       "date": "2026-07-14",
-      "nav_index": 134.0389,
+      "nav_index": 133.7897,
       "qqq_index": 117.6983,
       "voo_index": 108.5884,
       "mag7_index": 106.0711
     },
     {
       "date": "2026-07-15",
-      "nav_index": 130.9015,
+      "nav_index": 130.6581,
       "qqq_index": 117.3794,
       "voo_index": 109.0126,
       "mag7_index": 108.5561
     },
     {
       "date": "2026-07-16",
-      "nav_index": 126.3284,
+      "nav_index": 126.0936,
       "qqq_index": 115.4497,
       "voo_index": 108.4376,
       "mag7_index": 107.1406
+    },
+    {
+      "date": "2026-07-17",
+      "nav_index": 124.4196,
+      "qqq_index": 113.7145,
+      "voo_index": 107.3424,
+      "mag7_index": 105.2375
+    },
+    {
+      "date": "2026-07-20",
+      "nav_index": 123.8893,
+      "qqq_index": 113.8339,
+      "voo_index": 107.1916,
+      "mag7_index": 105.2689
+    },
+    {
+      "date": "2026-07-21",
+      "nav_index": 130.2088,
+      "qqq_index": 115.9452,
+      "voo_index": 108.0809,
+      "mag7_index": 105.3004
+    },
+    {
+      "date": "2026-07-22",
+      "nav_index": 128.9843,
+      "qqq_index": 115.3532,
+      "voo_index": 107.9489,
+      "mag7_index": 104.2781
+    },
+    {
+      "date": "2026-07-23",
+      "nav_index": 128.5174,
+      "qqq_index": 113.1634,
+      "voo_index": 106.6259,
+      "mag7_index": 99.4495
+    },
+    {
+      "date": "2026-07-24",
+      "nav_index": 123.0746,
+      "qqq_index": 111.8992,
+      "voo_index": 106.7092,
+      "mag7_index": 99.3237
+    },
+    {
+      "date": "2026-07-27",
+      "nav_index": 119.2256,
+      "qqq_index": 111.5541,
+      "voo_index": 106.7359,
+      "mag7_index": 99.1035
+    },
+    {
+      "date": "2026-07-28",
+      "nav_index": 112.469,
+      "qqq_index": 110.4699,
+      "voo_index": 106.9952,
+      "mag7_index": 99.7798
+    },
+    {
+      "date": "2026-07-29",
+      "nav_index": 106.1009,
+      "qqq_index": 108.2195,
+      "voo_index": 105.3721,
+      "mag7_index": 98.3957
     }
   ],
   "stats": {
-    "days_live": 108,
-    "total_return_pct": 26.328,
-    "qqq_return_pct": 15.45,
-    "alpha_pp": 10.878,
-    "sharpe_annualized": 1.52,
-    "win_days_pct": 56.07,
-    "voo_return_pct": 8.438,
-    "mag7_return_pct": 7.141,
+    "days_live": 122,
+    "total_return_pct": 6.101,
+    "qqq_return_pct": 8.219,
+    "alpha_pp": -2.118,
+    "sharpe_annualized": 0.502,
+    "win_days_pct": 50.41,
+    "voo_return_pct": 5.372,
+    "mag7_return_pct": -1.604,
     "model_return_pct": 47.874,
     "model_through": "2026-05-29"
   }
